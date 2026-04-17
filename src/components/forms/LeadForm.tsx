@@ -15,7 +15,9 @@ interface FormData {
   phone: string;
   email: string;
   service: string;
+  turfSize: string;
   timeline: string;
+  address: string;
   message: string;
   website: string; // honeypot
 }
@@ -27,7 +29,9 @@ export default function LeadForm({ formId, location, service }: LeadFormProps) {
     phone: '',
     email: '',
     service: service || '',
+    turfSize: '',
     timeline: '',
+    address: '',
     message: '',
     website: '',
   });
@@ -57,12 +61,16 @@ export default function LeadForm({ formId, location, service }: LeadFormProps) {
       return;
     }
 
-    // Basic validation
+    // Validate all required fields
     if (
       !formData.firstName.trim() ||
       !formData.lastName.trim() ||
       !formData.phone.trim() ||
-      !formData.email.trim()
+      !formData.email.trim() ||
+      !formData.service ||
+      !formData.turfSize ||
+      !formData.timeline ||
+      !formData.message.trim()
     ) {
       setError('Please fill in all required fields.');
       return;
@@ -234,16 +242,18 @@ export default function LeadForm({ formId, location, service }: LeadFormProps) {
             htmlFor={`${formId}-service`}
             className="block text-sm font-medium text-etr-gray mb-1"
           >
-            Service Interested In
+            Service Interested In <span className="text-red-500">*</span>
           </label>
           <select
             id={`${formId}-service`}
             name="service"
+            required
             value={formData.service}
             onChange={handleChange}
             className={inputClasses}
           >
             <option value="">Select a service...</option>
+            <option value="general-cleaning">General Cleaning (Debris, Disinfect &amp; Bloom)</option>
             <option value="putting-green-refresh">Putting Green Refresh &amp; Tuning</option>
             <option value="turf-cleaning">Pet Hair &amp; Debris Removal</option>
             <option value="turf-sanitization">Disinfect &amp; Deodorize</option>
@@ -252,27 +262,75 @@ export default function LeadForm({ formId, location, service }: LeadFormProps) {
           </select>
         </div>
 
-        {/* Timeline Dropdown */}
+        {/* Turf Size + Timeline Row */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div>
+            <label
+              htmlFor={`${formId}-turfSize`}
+              className="block text-sm font-medium text-etr-gray mb-1"
+            >
+              Approximate Turf Size <span className="text-red-500">*</span>
+            </label>
+            <select
+              id={`${formId}-turfSize`}
+              name="turfSize"
+              required
+              value={formData.turfSize}
+              onChange={handleChange}
+              className={inputClasses}
+            >
+              <option value="">Select size...</option>
+              <option value="under-500">Under 500 sq ft</option>
+              <option value="500-1000">500 – 1,000 sq ft</option>
+              <option value="1000-2000">1,000 – 2,000 sq ft</option>
+              <option value="2000-plus">2,000+ sq ft</option>
+              <option value="not-sure">Not sure</option>
+            </select>
+          </div>
+          <div>
+            <label
+              htmlFor={`${formId}-timeline`}
+              className="block text-sm font-medium text-etr-gray mb-1"
+            >
+              Timeline <span className="text-red-500">*</span>
+            </label>
+            <select
+              id={`${formId}-timeline`}
+              name="timeline"
+              required
+              value={formData.timeline}
+              onChange={handleChange}
+              className={inputClasses}
+            >
+              <option value="">Select a timeline...</option>
+              <option value="asap">ASAP</option>
+              <option value="within-week">Within a week</option>
+              <option value="within-month">Within a month</option>
+              <option value="no-rush">No rush</option>
+            </select>
+          </div>
+        </div>
+
+        {/* Address — optional, full width, visually prominent */}
         <div>
           <label
-            htmlFor={`${formId}-timeline`}
+            htmlFor={`${formId}-address`}
             className="block text-sm font-medium text-etr-gray mb-1"
           >
-            Timeline
+            Property Address <span className="text-etr-gray-light font-normal">(optional)</span>
           </label>
-          <select
-            id={`${formId}-timeline`}
-            name="timeline"
-            value={formData.timeline}
+          <input
+            type="text"
+            id={`${formId}-address`}
+            name="address"
+            value={formData.address}
             onChange={handleChange}
-            className={inputClasses}
-          >
-            <option value="">Select a timeline...</option>
-            <option value="asap">ASAP</option>
-            <option value="within-week">Within a week</option>
-            <option value="within-month">Within a month</option>
-            <option value="just-browsing">Just browsing</option>
-          </select>
+            className="w-full px-4 py-3.5 rounded-lg border-2 border-gray-200 text-base font-body text-etr-black focus:ring-2 focus:ring-etr-green/40 focus:border-etr-green outline-none transition-all"
+            placeholder="123 Main St, Parker, CO 80134"
+          />
+          <p className="mt-1 text-xs text-etr-gray-light">
+            We can use your address to provide a more accurate quote.
+          </p>
         </div>
 
         {/* Message */}
@@ -281,16 +339,17 @@ export default function LeadForm({ formId, location, service }: LeadFormProps) {
             htmlFor={`${formId}-message`}
             className="block text-sm font-medium text-etr-gray mb-1"
           >
-            Message
+            Message <span className="text-red-500">*</span>
           </label>
           <textarea
             id={`${formId}-message`}
             name="message"
             rows={3}
+            required
             value={formData.message}
             onChange={handleChange}
             className={inputClasses}
-            placeholder="Tell us about your turf (size, condition, etc.)"
+            placeholder="Tell us about your turf — condition, any issues, what you're looking for."
           />
         </div>
 

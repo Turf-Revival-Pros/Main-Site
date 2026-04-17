@@ -1,5 +1,31 @@
 [
   {
+    "timestamp": "2026-04-17T18:29:11.348Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Email Address",
+        "count": 1
+      },
+      {
+        "type": "Phone Number",
+        "count": 1
+      }
+    ],
+    "inputLength": 1064
+  },
+  {
+    "timestamp": "2026-04-17T17:56:14.487Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Email Address",
+        "count": 1
+      }
+    ],
+    "inputLength": 1096
+  },
+  {
     "timestamp": "2026-04-17T17:32:44.461Z",
     "tool": "bash",
     "redacted": [
@@ -1112,27 +1138,5 @@
       }
     ],
     "inputLength": 839
-  },
-  {
-    "timestamp": "2026-04-12T20:57:04.048Z",
-    "tool": "write",
-    "redacted": [
-      {
-        "type": "Possible Mnemonic Seed",
-        "count": 1
-      }
-    ],
-    "inputLength": 2361
-  },
-  {
-    "timestamp": "2026-04-12T20:56:55.751Z",
-    "tool": "write",
-    "redacted": [
-      {
-        "type": "Possible Mnemonic Seed",
-        "count": 1
-      }
-    ],
-    "inputLength": 3127
   }
 ]
