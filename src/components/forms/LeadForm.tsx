@@ -70,7 +70,7 @@ export default function LeadForm({ formId, location, service }: LeadFormProps) {
       !formData.service ||
       !formData.turfSize ||
       !formData.timeline ||
-      !formData.message.trim()
+      !formData.timeline
     ) {
       setError('Please fill in all required fields.');
       return;
@@ -339,13 +339,12 @@ export default function LeadForm({ formId, location, service }: LeadFormProps) {
             htmlFor={`${formId}-message`}
             className="block text-sm font-medium text-etr-gray mb-1"
           >
-            Message <span className="text-red-500">*</span>
+            Message
           </label>
           <textarea
             id={`${formId}-message`}
             name="message"
             rows={3}
-            required
             value={formData.message}
             onChange={handleChange}
             className={inputClasses}
