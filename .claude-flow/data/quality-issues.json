@@ -1,0 +1,10 @@
+[
+  {
+    "id": "debug-statements",
+    "severity": "WARN",
+    "description": "Debug statement left in code (console.log / print / debugger)",
+    "file": "lead.mts",
+    "filePath": "/Users/wififunded/Elite Turf Solutions/elite-turf-refresh/netlify/functions/lead.mts",
+    "timestamp": "2026-04-12T21:07:17.326Z"
+  }
+]

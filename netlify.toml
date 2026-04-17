@@ -1,0 +1,58 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/_next/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/llms.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
+# Redirect old combo URLs to new SEO-friendly pattern (/{service}-in-{location})
+[[redirects]]
+  from = "/locations/:location/putting-green-refresh"
+  to = "/putting-green-refresh-in-:location"
+  status = 301
+
+[[redirects]]
+  from = "/locations/:location/turf-cleaning"
+  to = "/turf-cleaning-in-:location"
+  status = 301
+
+[[redirects]]
+  from = "/locations/:location/turf-sanitization"
+  to = "/turf-sanitization-in-:location"
+  status = 301
+
+[[redirects]]
+  from = "/locations/:location/turf-restoration"
+  to = "/turf-restoration-in-:location"
+  status = 301

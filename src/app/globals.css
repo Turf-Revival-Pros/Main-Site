@@ -1,0 +1,203 @@
+@import "tailwindcss";
+
+:root {
+  --etr-green: #2E7D32;
+  --etr-blue: #1976D2;
+  --etr-black: #111111;
+  --etr-white: #FFFFFF;
+}
+
+@theme inline {
+  --color-etr-green: #2E7D32;
+  --color-etr-green-light: #43A047;
+  --color-etr-green-dark: #1B5E20;
+  --color-etr-blue: #1976D2;
+  --color-etr-blue-light: #42A5F5;
+  --color-etr-blue-dark: #0D47A1;
+  --color-etr-black: #1a2e1a;
+  --color-etr-gray: #3d4a3d;
+  --color-etr-gray-light: #6b7c6b;
+  --color-etr-bg: #FFFFFF;
+  --color-etr-bg-alt: #F5F7F5;
+  --color-etr-bg-dark: #0A1F0C;
+  --font-heading: 'Montserrat', sans-serif;
+  --font-body: 'Open Sans', sans-serif;
+}
+
+body {
+  background-color: var(--etr-white);
+  color: #1a2e1a;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* FAQ Accordion Animation */
+.accordion-content {
+  overflow: hidden;
+  transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2E7D32;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1B5E20;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Shimmer / skeleton loader */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #e8e8e8 25%, #f5f5f5 50%, #e8e8e8 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+  border-radius: 8px;
+}
+
+/* Card hover effects */
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(27, 94, 32, 0.12), 0 4px 8px rgba(27, 94, 32, 0.08);
+}
+
+/* Button hover effects */
+.btn-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-hover:hover {
+  transform: scale(1.02);
+}
+
+.btn-hover:active {
+  transform: scale(0.98);
+}
+
+/* Image zoom on hover */
+.img-zoom {
+  overflow: hidden;
+}
+
+.img-zoom img {
+  transition: transform 0.5s ease;
+}
+
+.img-zoom:hover img {
+  transform: scale(1.05);
+}
+
+/* Green gradient overlay for sections */
+.green-gradient-overlay {
+  background: linear-gradient(135deg, rgba(46, 125, 50, 0.9) 0%, rgba(27, 94, 32, 0.95) 100%);
+}
+
+/* Turf texture pattern for section backgrounds */
+.turf-pattern {
+  background-color: #F5F7F5;
+  background-image: radial-gradient(circle at 25% 25%, rgba(46, 125, 50, 0.03) 0%, transparent 50%),
+                     radial-gradient(circle at 75% 75%, rgba(25, 118, 210, 0.03) 0%, transparent 50%);
+}
+
+/* === DESIGN OVERHAUL UTILITIES === */
+
+/* Green gradient backgrounds */
+.bg-gradient-green {
+  background: linear-gradient(135deg, #1B5E20 0%, #2E7D32 50%, #43A047 100%);
+}
+
+.bg-gradient-green-dark {
+  background: linear-gradient(180deg, #0A1F0C 0%, #1B5E20 100%);
+}
+
+.bg-gradient-hero {
+  background: linear-gradient(135deg, rgba(27, 94, 32, 0.85) 0%, rgba(46, 125, 50, 0.7) 50%, rgba(25, 118, 210, 0.6) 100%);
+}
+
+/* Sparkle/bokeh effect for CTA backgrounds */
+.sparkle-bg {
+  background-image: radial-gradient(circle at 20% 80%, rgba(255,255,255,0.1) 0%, transparent 50%),
+                     radial-gradient(circle at 80% 20%, rgba(255,255,255,0.08) 0%, transparent 40%),
+                     radial-gradient(circle at 50% 50%, rgba(255,255,255,0.05) 0%, transparent 60%);
+}
+
+/* Wave section divider */
+.wave-divider {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.wave-divider svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 60px;
+}
+
+@media (min-width: 768px) {
+  .wave-divider svg {
+    height: 80px;
+  }
+}
+
+/* Service card photo overlay gradient */
+.service-card-overlay {
+  background: linear-gradient(to top, rgba(27, 94, 32, 0.95) 0%, rgba(27, 94, 32, 0.6) 40%, transparent 100%);
+}
+
+/* Grass blade divider — individual blades sway from their base */
+@keyframes grass-sway {
+  0%, 100% { transform: rotate(-2deg); }
+  50%      { transform: rotate(2deg); }
+}
+
+.grass-blade {
+  animation: grass-sway 4s ease-in-out infinite;
+  transform-origin: 50% 100%;
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .grass-blade {
+    animation: none;
+  }
+}
