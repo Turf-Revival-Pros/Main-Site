@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": "2026-04-17T19:03:50.636Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Email Address",
+        "count": 1
+      }
+    ],
+    "inputLength": 671
+  },
+  {
+    "timestamp": "2026-04-17T19:03:15.295Z",
+    "tool": "edit",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 498
+  },
+  {
+    "timestamp": "2026-04-17T19:02:21.264Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 1093
+  },
+  {
+    "timestamp": "2026-04-17T19:01:46.797Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 923
+  },
+  {
+    "timestamp": "2026-04-17T19:01:24.250Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 1697
+  }
+]

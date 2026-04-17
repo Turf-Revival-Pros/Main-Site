@@ -97,6 +97,13 @@ export default function RootLayout({
     >
       <head>
         <JsonLd data={localBusinessLd} />
+        {/* Preload hero LCP image for faster paint */}
+        <link
+          rel="preload"
+          as="image"
+          href="/images/etr/IMG_0077.jpg"
+          fetchPriority="high"
+        />
       </head>
       <body className="min-h-dvh flex flex-col font-body antialiased">
         <Header />
