@@ -87,7 +87,7 @@ export const services: Service[] = [
       {
         question: 'Will cleaning damage my artificial turf?',
         answer:
-          'Not at all. We use equipment and techniques specifically designed for synthetic turf. Our power brushing actually helps extend turf life by preventing fiber matting and maintaining proper infill distribution.',
+          'Not at all. We use equipment and techniques specifically designed for artificial turf. Our power brushing actually helps extend turf life by preventing fiber matting and maintaining proper infill distribution.',
       },
       {
         question: 'How long does a typical cleaning take?',

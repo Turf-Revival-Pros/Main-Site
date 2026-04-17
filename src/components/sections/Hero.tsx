@@ -2,7 +2,6 @@
 
 import { motion } from 'framer-motion';
 import Button from '@/components/ui/Button';
-import WaveDivider from '@/components/ui/WaveDivider';
 import { Phone } from 'lucide-react';
 import { company } from '@/data/company';
 
@@ -38,7 +37,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.2, ease: 'easeOut' }}
             className="text-lg sm:text-xl text-white/90 leading-relaxed mb-10 max-w-2xl"
           >
-            Professional Synthetic Turf Cleaning, Putting Green Refresh, and
+            Professional Artificial Turf Cleaning, Putting Green Refresh, and
             Restoration for Denver Metro Homeowners.
           </motion.p>
           <motion.div
@@ -62,10 +61,6 @@ export default function Hero() {
         </motion.div>
       </div>
 
-      {/* Wave transition to next section */}
-      <div className="absolute bottom-0 left-0 right-0 z-10">
-        <WaveDivider color="text-white" />
-      </div>
     </section>
   );
 }

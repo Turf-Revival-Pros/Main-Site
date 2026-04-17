@@ -3,7 +3,6 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { motion, AnimatePresence } from 'framer-motion';
 import { Menu, X, Phone, ChevronDown } from 'lucide-react';
 import { navigation } from '@/data/navigation';
 import { company } from '@/data/company';
@@ -125,91 +124,82 @@ export default function Header() {
         </div>
       </div>
 
-      {/* Mobile Drawer */}
-      <AnimatePresence>
-        {isOpen && (
-          <>
-            <motion.div
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              className="fixed inset-0 bg-black/30 z-40 lg:hidden"
-              onClick={() => setIsOpen(false)}
+      {/* Mobile Drawer — uses CSS transitions instead of framer-motion for reliable mobile behavior */}
+      <div
+        className={`fixed inset-0 bg-black/30 z-40 lg:hidden transition-opacity duration-300 ${
+          isOpen ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
+        }`}
+        onClick={() => setIsOpen(false)}
+      />
+      <div
+        className={`fixed top-0 right-0 bottom-0 w-80 max-w-[85vw] bg-white z-50 shadow-2xl overflow-y-auto lg:hidden transition-transform duration-300 ease-out ${
+          isOpen ? 'translate-x-0' : 'translate-x-full'
+        }`}
+      >
+        <div className="p-6">
+          <div className="flex justify-between items-center mb-8">
+            <Image
+              src="/images/etr-logo-wide.png"
+              alt="Elite Turf Refresh"
+              width={600}
+              height={338}
+              className="h-12 w-auto"
             />
-            <motion.div
-              initial={{ x: '100%' }}
-              animate={{ x: 0 }}
-              exit={{ x: '100%' }}
-              transition={{ type: 'spring', damping: 25, stiffness: 200 }}
-              className="fixed top-0 right-0 bottom-0 w-80 max-w-[85vw] bg-white z-50 shadow-2xl overflow-y-auto lg:hidden"
+            <button
+              onClick={() => setIsOpen(false)}
+              className="p-2 text-etr-black"
+              aria-label="Close menu"
             >
-              <div className="p-6">
-                <div className="flex justify-between items-center mb-8">
-                  <Image
-                    src="/images/etr-logo-wide.png"
-                    alt="Elite Turf Refresh"
-                    width={600}
-                    height={338}
-                    className="h-12 w-auto"
-                  />
-                  <button
-                    onClick={() => setIsOpen(false)}
-                    className="p-2 text-etr-black"
-                    aria-label="Close menu"
-                  >
-                    <X className="w-6 h-6" />
-                  </button>
-                </div>
+              <X className="w-6 h-6" />
+            </button>
+          </div>
 
-                <nav className="space-y-1" aria-label="Mobile navigation">
-                  {navigation.map((item) => (
-                    <div key={item.label}>
+          <nav className="space-y-1" aria-label="Mobile navigation">
+            {navigation.map((item) => (
+              <div key={item.label}>
+                <Link
+                  href={item.href}
+                  onClick={() => !item.children && setIsOpen(false)}
+                  className="block px-3 py-3 text-base font-medium text-etr-black hover:text-etr-green hover:bg-etr-bg-alt rounded-lg transition-colors"
+                >
+                  {item.label}
+                </Link>
+                {item.children && (
+                  <div className="ml-4 mt-1 space-y-1 border-l-2 border-etr-green/20 pl-3">
+                    {item.children.map((child) => (
                       <Link
-                        href={item.href}
-                        onClick={() => !item.children && setIsOpen(false)}
-                        className="block px-3 py-3 text-base font-medium text-etr-black hover:text-etr-green hover:bg-etr-bg-alt rounded-lg transition-colors"
+                        key={child.href}
+                        href={child.href}
+                        onClick={() => setIsOpen(false)}
+                        className="block px-3 py-2 text-sm text-etr-gray-light hover:text-etr-green transition-colors"
                       >
-                        {item.label}
+                        {child.label}
                       </Link>
-                      {item.children && (
-                        <div className="ml-4 mt-1 space-y-1 border-l-2 border-etr-green/20 pl-3">
-                          {item.children.map((child) => (
-                            <Link
-                              key={child.href}
-                              href={child.href}
-                              onClick={() => setIsOpen(false)}
-                              className="block px-3 py-2 text-sm text-etr-gray-light hover:text-etr-green transition-colors"
-                            >
-                              {child.label}
-                            </Link>
-                          ))}
-                        </div>
-                      )}
-                    </div>
-                  ))}
-                </nav>
-
-                <div className="mt-8 pt-6 border-t border-gray-100 space-y-4">
-                  <a
-                    href={`tel:${company.phone.replace(/[^0-9]/g, '')}`}
-                    className="flex items-center gap-2 px-3 py-3 text-base font-medium text-etr-green"
-                  >
-                    <Phone className="w-5 h-5" />
-                    {company.phone}
-                  </a>
-                  <Link
-                    href="/contact"
-                    onClick={() => setIsOpen(false)}
-                    className="block w-full text-center bg-etr-green text-white px-5 py-3 rounded-lg font-heading font-semibold hover:bg-etr-green-dark transition-colors"
-                  >
-                    Get Free Quote
-                  </Link>
-                </div>
+                    ))}
+                  </div>
+                )}
               </div>
-            </motion.div>
-          </>
-        )}
-      </AnimatePresence>
+            ))}
+          </nav>
+
+          <div className="mt-8 pt-6 border-t border-gray-100 space-y-4">
+            <a
+              href={`tel:${company.phone.replace(/[^0-9]/g, '')}`}
+              className="flex items-center gap-2 px-3 py-3 text-base font-medium text-etr-green"
+            >
+              <Phone className="w-5 h-5" />
+              {company.phone}
+            </a>
+            <Link
+              href="/contact"
+              onClick={() => setIsOpen(false)}
+              className="block w-full text-center bg-etr-green text-white px-5 py-3 rounded-lg font-heading font-semibold hover:bg-etr-green-dark transition-colors"
+            >
+              Get Free Quote
+            </Link>
+          </div>
+        </div>
+      </div>
     </header>
   );
 }

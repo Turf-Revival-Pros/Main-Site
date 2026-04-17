@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Hero from '@/components/sections/Hero';
+import GrassDivider from '@/components/ui/GrassDivider';
 import ServiceOverview from '@/components/sections/ServiceOverview';
 import ProcessSteps from '@/components/sections/ProcessSteps';
 import AboutPreview from '@/components/sections/AboutPreview';
@@ -20,6 +21,7 @@ export default function HomePage() {
   return (
     <>
       <Hero />
+      <GrassDivider baseColor="#1B5E20" style={{ marginTop: '-80px', position: 'relative', zIndex: 10 }} />
       <ServiceOverview />
       <ProcessSteps />
       <AboutPreview />

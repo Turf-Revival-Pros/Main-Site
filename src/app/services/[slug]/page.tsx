@@ -246,6 +246,28 @@ export default async function ServiceDetailPage({ params }: ServicePageProps) {
         </section>
       )}
 
+      {/* Google Review prompt */}
+      <section className="py-10 bg-white">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="p-6 bg-etr-bg-alt rounded-2xl text-center">
+            <h3 className="text-lg font-heading font-bold text-etr-black mb-2">
+              Had a Great Experience?
+            </h3>
+            <p className="text-sm text-etr-gray-light mb-4 max-w-md mx-auto">
+              We appreciate honest feedback from our customers. Your review helps others find quality turf care.
+            </p>
+            <a
+              href="https://g.page/r/eliteturfrefresh/review"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 bg-etr-green hover:bg-etr-green-dark text-white font-heading font-semibold px-6 py-3 rounded-lg transition-colors text-sm"
+            >
+              Leave a Google Review
+            </a>
+          </div>
+        </div>
+      </section>
+
       {/* ── Lead Form ── */}
       <section id="quote" className="py-16 sm:py-20 bg-etr-bg-alt">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

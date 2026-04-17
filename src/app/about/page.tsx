@@ -63,7 +63,7 @@ export default function AboutPage() {
                   <p>
                     {company.name} was founded out of {owner.location} with a
                     simple observation: homeowners in the Denver metro area were
-                    investing thousands of dollars in beautiful synthetic turf,
+                    investing thousands of dollars in beautiful artificial turf,
                     but had no one to properly maintain it.
                   </p>
                   <p>
@@ -152,11 +152,7 @@ export default function AboutPage() {
               </p>
             </div>
             <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100">
-              <img
-                src="/images/etr/equip-IMG_5200.jpg"
-                alt="Commercial steel brush machine in use on a putting green"
-                className="w-full h-40 object-cover rounded-xl mb-4"
-              />
+              <Wrench className="w-10 h-10 text-etr-green mb-4" />
               <h3 className="text-lg font-heading font-bold text-etr-black mb-2">
                 Commercial-Grade Equipment
               </h3>
@@ -174,7 +170,7 @@ export default function AboutPage() {
               </h3>
               <p className="text-sm text-etr-gray-light leading-relaxed">
                 Denver&apos;s altitude, intense UV exposure, and dry climate
-                create unique challenges for synthetic turf. We understand these
+                create unique challenges for artificial turf. We understand these
                 conditions and tailor our approach accordingly.
               </p>
             </div>

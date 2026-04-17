@@ -25,7 +25,7 @@ export default function ServicesPage() {
             <p className="text-lg text-white/85 leading-relaxed">
               Professional Turf Care for Every Need. From putting green
               performance tuning to complete turf restoration, we keep your
-              synthetic turf looking and performing its best.
+              artificial turf looking and performing its best.
             </p>
           </div>
         </div>

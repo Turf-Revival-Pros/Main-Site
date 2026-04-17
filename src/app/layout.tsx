@@ -31,6 +31,22 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     siteName: 'Elite Turf Refresh',
+    images: [
+      {
+        url: '/images/etr-logo-wide.png',
+        width: 1200,
+        height: 630,
+        alt: 'Elite Turf Refresh — Artificial Turf Cleaning & Putting Green Refresh in Denver',
+      },
+    ],
+  },
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+    ],
+    apple: '/apple-touch-icon.png',
   },
 };
 

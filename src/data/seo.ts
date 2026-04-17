@@ -9,7 +9,7 @@ export const pageSEO: Record<string, SEOMetadata> = {
       'artificial turf cleaning Denver',
       'putting green maintenance Denver',
       'turf restoration Colorado',
-      'synthetic turf cleaning',
+      'artificial turf cleaning',
       'artificial grass cleaning',
       'Denver turf care',
     ],

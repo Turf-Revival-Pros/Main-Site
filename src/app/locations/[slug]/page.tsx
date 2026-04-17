@@ -6,6 +6,7 @@ import { locations } from '@/data/locations';
 import { services } from '@/data/services';
 import { testimonials } from '@/data/testimonials';
 import Breadcrumbs from '@/components/seo/Breadcrumbs';
+import JsonLd from '@/components/seo/JsonLd';
 import LeadForm from '@/components/forms/LeadForm';
 import TestimonialCard from '@/components/cards/TestimonialCard';
 import FAQ from '@/components/sections/FAQ';
@@ -49,6 +50,32 @@ export default async function LocationDetailPage({ params }: LocationPageProps) 
 
   return (
     <>
+      <JsonLd data={{
+        '@context': 'https://schema.org',
+        '@type': 'LocalBusiness',
+        name: 'Elite Turf Refresh',
+        description: `Professional artificial turf cleaning and putting green maintenance in ${location.name}, ${location.county}.`,
+        url: `https://eliteturfrefresh.com/locations/${slug}`,
+        telephone: '(720) 450-1653',
+        email: 'info@eliteturfrefresh.com',
+        areaServed: {
+          '@type': 'City',
+          name: location.name,
+          containedInPlace: {
+            '@type': 'State',
+            name: 'Colorado',
+          },
+        },
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: 'Parker',
+          addressRegion: 'CO',
+          addressCountry: 'US',
+        },
+        openingHours: ['Mo-Fr 07:00-18:00', 'Sa 08:00-16:00'],
+        priceRange: '$$',
+      }} />
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <Breadcrumbs
           items={[
@@ -118,7 +145,7 @@ export default async function LocationDetailPage({ params }: LocationPageProps) 
                       <p className="text-sm text-etr-gray-light line-clamp-2 mb-2">
                         {service.shortDescription}
                       </p>
-                      <span className="text-sm font-semibold text-etr-blue">
+                      <span className="text-sm font-semibold text-etr-green">
                         Learn More &rarr;
                       </span>
                     </Link>
@@ -159,6 +186,24 @@ export default async function LocationDetailPage({ params }: LocationPageProps) 
                   </div>
                 </div>
               )}
+
+              {/* Google Review prompt */}
+              <div className="mb-10 p-6 bg-etr-bg-alt rounded-2xl text-center">
+                <h3 className="text-lg font-heading font-bold text-etr-black mb-2">
+                  Had a Great Experience?
+                </h3>
+                <p className="text-sm text-etr-gray-light mb-4 max-w-md mx-auto">
+                  We appreciate honest feedback from {location.name} homeowners. Your review helps others find quality turf care.
+                </p>
+                <a
+                  href="https://g.page/r/eliteturfrefresh/review"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 bg-etr-green hover:bg-etr-green-dark text-white font-heading font-semibold px-6 py-3 rounded-lg transition-colors text-sm"
+                >
+                  Leave a Google Review
+                </a>
+              </div>
 
               {/* FAQ */}
               <FAQ
