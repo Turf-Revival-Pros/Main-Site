@@ -22,7 +22,7 @@ export default function AboutPreview() {
           {/* Image */}
           <div className="relative aspect-[5/4] rounded-2xl overflow-hidden shadow-lg">
             <Image
-              src="/images/etr/equip-IMG_5200.jpg"
+              src="/images/etr/IMG_2920.jpg"
               alt="Commercial brush machine in use on a putting green"
               fill
               className="object-cover"
@@ -32,13 +32,13 @@ export default function AboutPreview() {
           {/* Content */}
           <div>
             <span className="inline-block font-body font-semibold text-etr-green text-sm uppercase tracking-widest mb-3">
-              About Elite Turf Refresh
+              About Turf Revival Pros
             </span>
             <h2 className="font-heading font-extrabold text-3xl sm:text-4xl lg:text-5xl text-etr-black leading-tight">
               Denver&apos;s Putting Green &amp; Artificial Turf Care Specialist
             </h2>
             <p className="mt-5 font-body text-etr-gray-light text-lg leading-relaxed">
-              Owner-operated in Parker, Colorado, Elite Turf Refresh brings
+              Owner-operated in Parker, Colorado, Turf Revival Pros brings
               specialized{' '}
               <Link
                 href="/services/putting-green-refresh"

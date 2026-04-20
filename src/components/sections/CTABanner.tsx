@@ -18,7 +18,7 @@ export default function CTABanner() {
             Breathe New Life Into Your Turf
           </h2>
           <p className="text-lg sm:text-xl text-white/90 mb-10 max-w-2xl mx-auto">
-            Contact Elite Turf Refresh today for a free, no-obligation quote.
+            Contact Turf Revival Pros today for a free, no-obligation quote.
             Serving the entire Denver metro area.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

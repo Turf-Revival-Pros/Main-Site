@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Terms of Service | Elite Turf Refresh',
+  title: 'Terms of Service | Turf Revival Pros',
   description:
-    'Terms of service for Elite Turf Refresh. Review the terms and conditions governing your use of our website and services.',
+    'Terms of service for Turf Revival Pros. Review the terms and conditions governing your use of our website and services.',
 };
 
 export default function TermsOfServicePage() {
@@ -21,7 +21,7 @@ export default function TermsOfServicePage() {
           Agreement to Terms
         </h2>
         <p className="text-etr-gray-light leading-relaxed mb-4">
-          By accessing and using the website at eliteturfrefresh.com, you agree
+          By accessing and using the website at turfrevivalpros.com, you agree
           to be bound by these Terms of Service. If you do not agree with any
           part of these terms, you may not use our website or services.
         </p>
@@ -30,7 +30,7 @@ export default function TermsOfServicePage() {
           Services
         </h2>
         <p className="text-etr-gray-light leading-relaxed mb-4">
-          Elite Turf Refresh provides professional artificial turf cleaning,
+          Turf Revival Pros provides professional artificial turf cleaning,
           sanitization, restoration, and putting green maintenance services in
           the Denver metro area. All services are subject to availability and
           scheduling. Service descriptions on our website are for informational
@@ -53,7 +53,7 @@ export default function TermsOfServicePage() {
         </h2>
         <p className="text-etr-gray-light leading-relaxed mb-4">
           All content on this website, including text, images, logos, and design,
-          is the property of Elite Turf Refresh and is protected by applicable
+          is the property of Turf Revival Pros and is protected by applicable
           intellectual property laws. You may not reproduce, distribute, or use
           any content from this website without our written permission.
         </p>
@@ -62,7 +62,7 @@ export default function TermsOfServicePage() {
           Limitation of Liability
         </h2>
         <p className="text-etr-gray-light leading-relaxed mb-4">
-          Elite Turf Refresh shall not be liable for any indirect, incidental, or
+          Turf Revival Pros shall not be liable for any indirect, incidental, or
           consequential damages arising from the use of our website or services.
           Our total liability shall not exceed the amount paid for the specific
           service giving rise to the claim.
@@ -95,18 +95,18 @@ export default function TermsOfServicePage() {
         </p>
         <ul className="text-etr-gray-light space-y-1 mb-4">
           <li>
-            <strong>Elite Turf Refresh</strong>
+            <strong>Turf Revival Pros</strong>
           </li>
           <li>
             Email:{' '}
             <a
-              href="mailto:info@eliteturfrefresh.com"
+              href="mailto:info@turfrevivalpros.com"
               className="text-etr-blue hover:text-etr-blue-dark"
             >
-              info@eliteturfrefresh.com
+              info@turfrevivalpros.com
             </a>
           </li>
-          <li>Phone: (720) 450-1653</li>
+          <li>Phone: (719) 859-0314</li>
         </ul>
       </div>
     </section>

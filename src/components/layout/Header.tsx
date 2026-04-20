@@ -45,7 +45,7 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-3 shrink-0">
             <Image
               src="/images/etr-logo-wide.png"
-              alt="Elite Turf Refresh"
+              alt="Turf Revival Pros"
               width={600}
               height={338}
               className={`w-auto transition-all duration-300 ${
@@ -140,7 +140,7 @@ export default function Header() {
           <div className="flex justify-between items-center mb-8">
             <Image
               src="/images/etr-logo-wide.png"
-              alt="Elite Turf Refresh"
+              alt="Turf Revival Pros"
               width={600}
               height={338}
               className="h-12 w-auto"

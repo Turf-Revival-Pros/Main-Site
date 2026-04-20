@@ -6,7 +6,7 @@ export const testimonials: Testimonial[] = [
     customerLocation: 'Castle Pines, CO',
     rating: 5,
     reviewText:
-      'The Elite Turf Refresh team came out and completely transformed our putting green. Ball roll is back to where it was when we first installed it three years ago. They found a seam issue we had no idea about and fixed it on the spot. Nobody else in Denver knows putting greens like this.',
+      'The Turf Revival Pros team came out and completely transformed our putting green. Ball roll is back to where it was when we first installed it three years ago. They found a seam issue we had no idea about and fixed it on the spot. Nobody else in Denver knows putting greens like this.',
     serviceType: 'putting-green-refresh',
   },
   {
@@ -14,7 +14,7 @@ export const testimonials: Testimonial[] = [
     customerLocation: 'Parker, CO',
     rating: 5,
     reviewText:
-      'We have a large turf backyard that was looking pretty rough after two Colorado summers. Elite Turf Refresh power-brushed the entire area and it honestly looks brand new. The fiber is standing up again and the color is vibrant. Very happy with the results.',
+      'We have a large turf backyard that was looking pretty rough after two Colorado summers. Turf Revival Pros power-brushed the entire area and it honestly looks brand new. The fiber is standing up again and the color is vibrant. Very happy with the results.',
     serviceType: 'turf-cleaning',
   },
   {
@@ -62,7 +62,7 @@ export const testimonials: Testimonial[] = [
     customerLocation: 'Greenwood Village, CO',
     rating: 5,
     reviewText:
-      'I called three turf companies about my putting green and Elite Turf Refresh was the only one that actually understood what I was talking about. The other companies just wanted to clean it like a regular lawn. These guys get it.',
+      'I called three turf companies about my putting green and Turf Revival Pros was the only one that actually understood what I was talking about. The other companies just wanted to clean it like a regular lawn. These guys get it.',
     serviceType: 'putting-green-refresh',
   },
   {
@@ -86,7 +86,7 @@ export const testimonials: Testimonial[] = [
     customerLocation: 'Broomfield, CO',
     rating: 5,
     reviewText:
-      'Hired Elite Turf Refresh to clean our front yard turf before selling our home. The before-and-after was dramatic. Realtor said it made a noticeable difference in curb appeal. Money well spent.',
+      'Hired Turf Revival Pros to clean our front yard turf before selling our home. The before-and-after was dramatic. Realtor said it made a noticeable difference in curb appeal. Money well spent.',
     serviceType: 'turf-cleaning',
   },
   {

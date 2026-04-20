@@ -49,7 +49,7 @@ export default function BlogPage() {
 
           {/* Title */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-heading font-bold text-white mb-5 leading-tight">
-            Elite Turf Refresh Blog
+            Turf Revival Pros Blog
           </h1>
 
           {/* Subtitle */}

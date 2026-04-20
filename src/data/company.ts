@@ -1,13 +1,13 @@
 import { Company } from '@/types';
 
 export const company: Company = {
-  name: 'Elite Turf Refresh',
+  name: 'Turf Revival Pros',
   tagline: 'Make Your Turf Look New Again.',
-  phone: '(720) 450-1653',
-  email: 'info@eliteturfrefresh.com',
+  phone: '(719) 859-0314',
+  email: 'info@turfrevivalpros.com',
   serviceArea: 'Denver Metro — Castle Rock to Broomfield',
   description:
-    'Elite Turf Refresh is a professional artificial turf cleaning and restoration company serving the Denver metro area. Owner-operated and based in Parker, CO, we specialize in putting green maintenance and residential turf care throughout Douglas County and beyond.',
+    'Turf Revival Pros is a professional artificial turf cleaning and restoration company serving the Denver metro area. Owner-operated and based in Parker, CO, we specialize in putting green maintenance and residential turf care throughout Douglas County and beyond.',
   mission:
     'To deliver professional turf cleaning and restoration with unmatched putting green expertise, helping Denver homeowners protect their investment and enjoy their outdoor spaces year-round.',
   differentiators: [
@@ -20,7 +20,7 @@ export const company: Company = {
 };
 
 export const owner = {
-  name: 'Elite Turf Refresh',
+  name: 'Turf Revival Pros',
   location: 'Parker, CO',
   role: 'Owner-Operated',
 };

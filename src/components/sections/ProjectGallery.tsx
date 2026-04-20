@@ -13,7 +13,7 @@ const projects = [
   { src: '/images/etr/IMG_1760.jpg', alt: 'Striped artificial turf backyard in Denver', label: 'Backyard Refresh' },
   { src: '/images/etr/IMG_5569.jpg', alt: 'Clean striped residential artificial turf', label: 'Deep Clean Result' },
   { src: '/images/etr/IMG_5471.jpg', alt: 'Large striped backyard lawn with Colorado sky', label: 'Full Yard Service' },
-  { src: '/images/etr/equip-IMG_5200.jpg', alt: 'Commercial brush machine in use on a putting green', label: 'Professional Service' },
+  { src: '/images/etr/IMG_0496.jpg', alt: 'Putting green in Colorado backyard with mountain views', label: 'Colorado Green' },
 ];
 
 export default function ProjectGallery() {

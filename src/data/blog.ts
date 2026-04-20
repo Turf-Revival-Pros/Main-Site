@@ -47,9 +47,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to get your putting green back to peak performance?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-01-15',
     category: 'Putting Greens',
     tags: ['putting green', 'maintenance', 'DIY', 'backyard golf'],
@@ -104,9 +104,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to restore consistent ball roll on your putting green?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-02-03',
     category: 'Putting Greens',
     tags: ['putting green', 'ball roll', 'performance', 'infill'],
@@ -163,9 +163,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to schedule your next professional putting green service?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-02-18',
     category: 'Putting Greens',
     tags: ['putting green', 'DIY', 'professional maintenance', 'cost comparison'],
@@ -226,9 +226,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to schedule your seasonal putting green service?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-03-05',
     category: 'Putting Greens',
     tags: ['putting green', 'seasonal care', 'Colorado', 'maintenance schedule'],
@@ -286,9 +286,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to fix your putting green problems?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-03-20',
     category: 'Putting Greens',
     tags: ['putting green', 'problems', 'solutions', 'repair', 'maintenance'],
@@ -350,9 +350,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to get consistent speed across your entire putting green?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-01',
     category: 'Putting Greens',
     tags: ['putting green', 'speed', 'consistency', 'stimpmeter', 'performance'],
@@ -404,9 +404,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to optimize your putting green's infill performance?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-08',
     category: 'Putting Greens',
     tags: ['putting green', 'infill', 'silica sand', 'crumb rubber', 'maintenance'],
@@ -464,9 +464,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to get your putting green professionally serviced?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-10',
     category: 'Putting Greens',
     tags: ['putting green', 'professional service', 'signs', 'when to call'],
@@ -533,9 +533,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to deep clean your artificial turf?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-01-22',
     category: 'Turf Cleaning',
     tags: ['deep cleaning', 'artificial turf', 'maintenance', 'residential'],
@@ -601,9 +601,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to schedule your spring turf cleaning?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-03-01',
     category: 'Turf Cleaning',
     tags: ['spring cleaning', 'checklist', 'Denver', 'seasonal maintenance'],
@@ -650,9 +650,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to winterize your artificial turf before the first freeze?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2025-09-15',
     category: 'Turf Cleaning',
     tags: ['fall prep', 'winter', 'Colorado', 'seasonal maintenance'],
@@ -698,9 +698,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to set up a maintenance schedule for your artificial turf?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-01-30',
     category: 'Turf Cleaning',
     tags: ['cleaning frequency', 'maintenance schedule', 'artificial turf', 'tips'],
@@ -742,9 +742,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to experience the full benefits of professionally cleaned turf?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-02-10',
     category: 'Turf Cleaning',
     tags: ['benefits', 'professional cleaning', 'turf lifespan', 'home value'],
@@ -758,7 +758,7 @@ export const blogPosts: BlogPost[] = [
     title: 'What to Expect During a Professional Turf Cleaning',
     excerpt:
       'First time scheduling professional artificial turf cleaning? Here is exactly what happens during a service visit — from initial assessment through walkthrough.',
-    content: `<p>If you have never had your artificial turf professionally cleaned, you probably have questions. How long does it take? Do you need to be home? Will the turf be usable afterward? Here is a straightforward walkthrough of what happens during a typical service visit with Elite Turf Refresh so there are no surprises.</p>
+    content: `<p>If you have never had your artificial turf professionally cleaned, you probably have questions. How long does it take? Do you need to be home? Will the turf be usable afterward? Here is a straightforward walkthrough of what happens during a typical service visit with Turf Revival Pros so there are no surprises.</p>
 
 <h2>Before We Arrive: Quick Prep</h2>
 <p>Clear the turf area of furniture, planters, toys, and other objects. We need access to the entire surface to do the job right — working around obstacles means missed spots. Make sure we can reach an outdoor water spigot. If you have dogs, keep them inside during service; they are curious about our equipment and it is safer for everyone. That is the full extent of your prep work.</p>
@@ -789,9 +789,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to schedule your first professional turf cleaning?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-02-25',
     category: 'Turf Cleaning',
     tags: ['what to expect', 'professional service', 'process', 'first time'],
@@ -840,9 +840,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to protect your turf from Colorado's intense UV?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-01-08',
     category: 'Colorado Living',
     tags: ['Colorado', 'UV exposure', 'altitude', 'turf aging', 'maintenance'],
@@ -881,9 +881,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to give your turf the Colorado-specific care it needs?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-02-15',
     category: 'Colorado Living',
     tags: ['Colorado weather', 'freeze-thaw', 'hail', 'wind', 'turf care'],
@@ -931,9 +931,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to maintain your new or existing artificial turf?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-03-12',
     category: 'Colorado Living',
     tags: ['turf selection', 'Denver', 'buying guide', 'UV stabilization', 'installation'],
@@ -975,9 +975,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to maximize the life and water savings of your artificial turf?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-03-28',
     category: 'Colorado Living',
     tags: ['water savings', 'Denver', 'conservation', 'cost savings', 'sustainability'],
@@ -1030,9 +1030,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to keep your turf HOA-compliant year-round?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-05',
     category: 'Colorado Living',
     tags: ['HOA', 'Denver', 'regulations', 'Douglas County', 'landscaping'],
@@ -1077,9 +1077,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to keep your Douglas County turf looking its best?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-12',
     category: 'Colorado Living',
     tags: ['Douglas County', 'trends', 'market', 'growth', 'putting greens'],
@@ -1144,9 +1144,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to get your pet turf professionally cleaned and sanitized?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-01-25',
     category: 'Pet Care',
     tags: ['pets', 'dogs', 'cleaning', 'pet-safe', 'hygiene'],
@@ -1214,9 +1214,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to tackle pet odor on your artificial turf?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-02-20',
     category: 'Pet Care',
     tags: ['pet odor', 'odor treatment', 'sanitization', 'honest expectations', 'dogs'],
@@ -1281,9 +1281,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready for a professional assessment of your pet turf?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-03-15',
     category: 'Pet Care',
     tags: ['dogs', 'turf selection', 'pet turf', 'drainage', 'infill'],
@@ -1360,9 +1360,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to get your pet zone professionally maintained?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-02',
     category: 'Pet Care',
     tags: ['dog training', 'pet zones', 'maintenance tips', 'designated areas'],
@@ -1426,9 +1426,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to get your turf prepped for Colorado's spring and summer?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-03-08',
     category: 'Seasonal Care',
     tags: ['spring', 'seasonal prep', 'Colorado', 'maintenance window'],
@@ -1498,9 +1498,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to protect your turf from Colorado's intense summer conditions?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2025-06-10',
     category: 'Seasonal Care',
     tags: ['summer', 'UV protection', 'heat', 'Colorado', 'fiber care'],
@@ -1561,9 +1561,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to winterize your artificial turf before the cold sets in?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2025-09-20',
     category: 'Seasonal Care',
     tags: ['fall', 'winter prep', 'Colorado', 'seasonal maintenance', 'leaves'],
@@ -1623,9 +1623,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to schedule winter turf maintenance on the next warm day?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2025-12-05',
     category: 'Seasonal Care',
     tags: ['winter', 'cold weather', 'snow', 'Colorado', 'dos and donts'],
@@ -1690,9 +1690,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to see what professional power brushing can do for your turf?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-03-25',
     category: 'Equipment & Technology',
     tags: ['equipment', 'technology', 'power brushing', 'professional tools'],
@@ -1766,9 +1766,9 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to see professional turf equipment in action on your property?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-08',
     category: 'Equipment & Technology',
     tags: ['equipment', 'behind the scenes', 'professional service', 'tools'],
@@ -1824,13 +1824,13 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to refresh your Highlands Ranch turf?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-10',
     category: 'Colorado Living',
     tags: ['highlands ranch', 'artificial turf', 'denver', 'HOA', 'turf maintenance'],
-    metaTitle: 'Artificial Turf Care in Highlands Ranch CO | Elite Turf Refresh',
+    metaTitle: 'Artificial Turf Care in Highlands Ranch CO | Turf Revival Pros',
     metaDescription:
       'Highlands Ranch artificial turf care guide. HRCA-compliant maintenance for Westridge, Northridge & Eastridge homes at 5,900 feet. Free quotes available.',
     featuredImage: '/images/gallery/gallery-01.png',
@@ -1874,13 +1874,13 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to get your Castle Pines putting green playing its best?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-10',
     category: 'Putting Greens',
     tags: ['castle pines', 'putting greens', 'golf', 'denver', 'artificial turf'],
-    metaTitle: 'Backyard Putting Greens in Castle Pines CO | Elite Turf Refresh',
+    metaTitle: 'Backyard Putting Greens in Castle Pines CO | Turf Revival Pros',
     metaDescription:
       'Castle Pines putting green maintenance and tuning. How altitude affects performance and why local golfers trust professional refresh service. Free quotes.',
     featuredImage: '/images/gallery/gallery-02.png',
@@ -1928,13 +1928,13 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to schedule turf maintenance for your Parker property?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-10',
     category: 'Colorado Living',
     tags: ['parker', 'artificial turf', 'denver', 'new construction', 'turf maintenance'],
-    metaTitle: 'Artificial Turf Maintenance in Parker CO | Elite Turf Refresh',
+    metaTitle: 'Artificial Turf Maintenance in Parker CO | Turf Revival Pros',
     metaDescription:
       'Parker CO artificial turf care guide for Stonegate, The Pinery, and Canterberry homeowners. Water restrictions, new construction tips, and professional service.',
     featuredImage: '/images/gallery/gallery-05.png',
@@ -1982,13 +1982,13 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to restore your Lone Tree turf to like-new condition?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-10',
     category: 'Colorado Living',
     tags: ['lone tree', 'artificial turf', 'denver', 'RidgeGate', 'turf cleaning'],
-    metaTitle: 'Turf Cleaning Guide for Lone Tree CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning Guide for Lone Tree CO | Turf Revival Pros',
     metaDescription:
       'Lone Tree artificial turf cleaning for RidgeGate, Park Meadows, and Lincoln Avenue homeowners. Premium maintenance for premium properties. Free quotes.',
     featuredImage: '/images/gallery/gallery-07.png',
@@ -2049,13 +2049,13 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to get your Centennial pet turf professionally cleaned?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-10',
     category: 'Pet Care',
     tags: ['centennial', 'pet turf', 'dog-friendly', 'denver', 'artificial turf'],
-    metaTitle: 'Pet Turf Care in Centennial CO | Elite Turf Refresh',
+    metaTitle: 'Pet Turf Care in Centennial CO | Turf Revival Pros',
     metaDescription:
       'Centennial CO pet turf care guide. Keep your dog-friendly artificial turf clean and hygienic. Professional sanitization for Denver metro pet owners. Free quotes.',
     featuredImage: '/images/gallery/gallery-08.png',
@@ -2103,13 +2103,13 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready for estate-level turf maintenance in Cherry Hills Village?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-10',
     category: 'Colorado Living',
     tags: ['cherry hills village', 'luxury turf', 'artificial turf', 'denver', 'estate maintenance'],
-    metaTitle: 'Luxury Turf Care in Cherry Hills Village CO | Elite Turf Refresh',
+    metaTitle: 'Luxury Turf Care in Cherry Hills Village CO | Turf Revival Pros',
     metaDescription:
       'Cherry Hills Village estate turf maintenance. Premium artificial turf care for Colorado\'s most prestigious homes. Putting greens and full-property service.',
     featuredImage: '/images/gallery/gallery-10.png',
@@ -2166,13 +2166,13 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to maximize your artificial turf investment in Denver?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-10',
     category: 'Colorado Living',
     tags: ['denver', 'water restrictions', 'artificial turf', 'xeriscape', 'water conservation'],
-    metaTitle: 'Denver Water Restrictions & Artificial Turf | Elite Turf Refresh',
+    metaTitle: 'Denver Water Restrictions & Artificial Turf | Turf Revival Pros',
     metaDescription:
       'How artificial turf helps Denver homeowners comply with water restrictions and save on tiered rates. Maintenance tips for the Mile High City. Free quotes.',
     featuredImage: '/images/gallery/gallery-12.jpeg',
@@ -2230,13 +2230,13 @@ export const blogPosts: BlogPost[] = [
 
 <div style="margin-top:2rem;padding:1.5rem;background:#F5F7F5;border-radius:12px;border-left:4px solid #2E7D32;">
 <p><strong>Ready to protect your Castle Rock turf from altitude wear?</strong></p>
-<p>Elite Turf Refresh serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7204501653" style="color:#2E7D32;font-weight:600;">(720) 450-1653</a> today.</p>
+<p>Turf Revival Pros serves 40+ communities across the Denver metro area. <a href="/contact" style="color:#2E7D32;font-weight:600;">Get your free quote</a> or call <a href="tel:7198590314" style="color:#2E7D32;font-weight:600;">(719) 859-0314</a> today.</p>
 </div>`,
-    author: 'Elite Turf Refresh Team',
+    author: 'Turf Revival Pros Team',
     publishedDate: '2026-04-10',
     category: 'Colorado Living',
     tags: ['castle rock', 'high altitude', 'artificial turf', 'denver', 'UV protection'],
-    metaTitle: 'Castle Rock Turf Care at 6,200 Feet | Elite Turf Refresh',
+    metaTitle: 'Castle Rock Turf Care at 6,200 Feet | Turf Revival Pros',
     metaDescription:
       'Castle Rock CO artificial turf care at 6,200 feet. How altitude, UV, and dry air affect your turf differently and what to do about it. Free quotes available.',
     featuredImage: '/images/gallery/gallery-13.jpeg',

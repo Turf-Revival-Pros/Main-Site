@@ -2,9 +2,9 @@ import { SEOMetadata } from '@/types';
 
 export const pageSEO: Record<string, SEOMetadata> = {
   home: {
-    title: 'Elite Turf Refresh | Artificial Turf Cleaning & Putting Green Specialists | Denver, CO',
+    title: 'Turf Revival Pros | Artificial Turf Cleaning & Putting Green Specialists | Denver, CO',
     description:
-      'Professional artificial turf cleaning, sanitization, and putting green restoration in the Denver metro area. Serving Castle Rock to Broomfield. Call (720) 450-1653.',
+      'Professional artificial turf cleaning, sanitization, and putting green restoration in the Denver metro area. Serving Castle Rock to Broomfield. Call (719) 859-0314.',
     keywords: [
       'artificial turf cleaning Denver',
       'putting green maintenance Denver',
@@ -15,11 +15,11 @@ export const pageSEO: Record<string, SEOMetadata> = {
     ],
   },
   about: {
-    title: 'About Elite Turf Refresh | Denver Turf Cleaning Experts',
+    title: 'About Turf Revival Pros | Denver Turf Cleaning Experts',
     description:
-      'Learn about Elite Turf Refresh, Denver\'s trusted artificial turf cleaning and putting green restoration company. Owner-operated from Parker, CO.',
+      'Learn about Turf Revival Pros, Denver\'s trusted artificial turf cleaning and putting green restoration company. Owner-operated from Parker, CO.',
     keywords: [
-      'about Elite Turf Refresh',
+      'about Turf Revival Pros',
       'Denver turf cleaning company',
       'Parker CO turf care',
       'owner-operated turf',
@@ -39,9 +39,9 @@ export const pageSEO: Record<string, SEOMetadata> = {
     ],
   },
   locations: {
-    title: 'Service Areas | Elite Turf Refresh | Denver Metro Turf Cleaning',
+    title: 'Service Areas | Turf Revival Pros | Denver Metro Turf Cleaning',
     description:
-      'Elite Turf Refresh serves 30+ communities across the Denver metro area, from Castle Rock to Broomfield. Find professional turf cleaning near you.',
+      'Turf Revival Pros serves 30+ communities across the Denver metro area, from Castle Rock to Broomfield. Find professional turf cleaning near you.',
     keywords: [
       'turf cleaning near me',
       'Denver metro turf service',
@@ -51,9 +51,9 @@ export const pageSEO: Record<string, SEOMetadata> = {
     ],
   },
   blog: {
-    title: 'Turf Care Blog | Tips, Guides & Denver Turf News | Elite Turf Refresh',
+    title: 'Turf Care Blog | Tips, Guides & Denver Turf News | Turf Revival Pros',
     description:
-      'Expert tips on artificial turf maintenance, putting green care, pet-friendly turf solutions, and Colorado-specific turf advice from Elite Turf Refresh.',
+      'Expert tips on artificial turf maintenance, putting green care, pet-friendly turf solutions, and Colorado-specific turf advice from Turf Revival Pros.',
     keywords: [
       'artificial turf tips',
       'putting green maintenance guide',
@@ -63,12 +63,12 @@ export const pageSEO: Record<string, SEOMetadata> = {
     ],
   },
   contact: {
-    title: 'Contact Elite Turf Refresh | Free Estimate | (720) 450-1653',
+    title: 'Contact Turf Revival Pros | Free Estimate | (719) 859-0314',
     description:
-      'Get a free estimate for artificial turf cleaning, sanitization, or putting green restoration. Call (720) 450-1653 or fill out our contact form.',
+      'Get a free estimate for artificial turf cleaning, sanitization, or putting green restoration. Call (719) 859-0314 or fill out our contact form.',
     keywords: [
       'turf cleaning estimate Denver',
-      'contact Elite Turf Refresh',
+      'contact Turf Revival Pros',
       'free turf cleaning quote',
       'Denver turf service appointment',
     ],

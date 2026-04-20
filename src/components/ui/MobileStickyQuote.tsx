@@ -14,7 +14,7 @@ export default function MobileStickyQuote() {
     >
       <div className="flex gap-3">
         <a
-          href="tel:7204501653"
+          href="tel:7198590314"
           className="flex-1 inline-flex items-center justify-center gap-2 bg-white text-etr-green-dark py-3 rounded-lg font-heading font-semibold text-sm min-h-[44px] transition-colors hover:bg-gray-50"
         >
           <Phone className="w-4 h-4" />

@@ -58,10 +58,10 @@ export default async function ServiceDetailPage({ params }: ServicePageProps) {
     description: service.metaDescription,
     provider: {
       '@type': 'LocalBusiness',
-      name: 'Elite Turf Refresh',
-      url: 'https://eliteturfrefresh.com',
+      name: 'Turf Revival Pros',
+      url: 'https://turfrevivalpros.com',
     },
-    url: `https://eliteturfrefresh.com/services/${slug}`,
+    url: `https://turfrevivalpros.com/services/${slug}`,
   };
 
   return (
@@ -105,11 +105,11 @@ export default async function ServiceDetailPage({ params }: ServicePageProps) {
               Get a Free Quote
             </a>
             <a
-              href="tel:7204501653"
+              href="tel:7198590314"
               className="inline-flex items-center justify-center gap-2 border-2 border-white/40 text-white hover:bg-white/10 font-heading font-semibold px-8 py-3.5 rounded-lg transition-colors"
             >
               <Phone className="w-5 h-5" />
-              (720) 450-1653
+              (719) 859-0314
             </a>
           </div>
         </div>
@@ -131,7 +131,7 @@ export default async function ServiceDetailPage({ params }: ServicePageProps) {
                 style={{ background: 'rgba(25, 118, 210, 0.05)' }}
               >
                 <p className="text-etr-black font-medium text-sm leading-relaxed">
-                  Serving 40+ communities across the Denver metro — from Castle Rock to Broomfield. Call <a href="tel:7204501653" className="text-etr-blue font-semibold">(720) 450-1653</a> or fill out the form below for a free estimate.
+                  Serving 40+ communities across the Denver metro — from Castle Rock to Broomfield. Call <a href="tel:7198590314" className="text-etr-blue font-semibold">(719) 859-0314</a> or fill out the form below for a free estimate.
                 </p>
               </div>
             </div>
@@ -221,11 +221,11 @@ export default async function ServiceDetailPage({ params }: ServicePageProps) {
               Get Your Free Quote
             </a>
             <a
-              href="tel:7204501653"
+              href="tel:7198590314"
               className="inline-flex items-center gap-2 text-white font-heading font-semibold text-lg hover:text-etr-blue-light transition-colors"
             >
               <Phone className="w-5 h-5" />
-              (720) 450-1653
+              (719) 859-0314
             </a>
           </div>
         </div>
@@ -257,7 +257,7 @@ export default async function ServiceDetailPage({ params }: ServicePageProps) {
               We appreciate honest feedback from our customers. Your review helps others find quality turf care.
             </p>
             <a
-              href="https://g.page/r/eliteturfrefresh/review"
+              href="https://g.page/r/turfrevivalpros/review"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-etr-green hover:bg-etr-green-dark text-white font-heading font-semibold px-6 py-3 rounded-lg transition-colors text-sm"
@@ -294,11 +294,11 @@ export default async function ServiceDetailPage({ params }: ServicePageProps) {
                 </div>
               </div>
               <a
-                href="tel:7204501653"
+                href="tel:7198590314"
                 className="inline-flex items-center gap-2 text-etr-blue font-heading font-semibold text-lg hover:text-etr-blue-dark transition-colors"
               >
                 <Phone className="w-5 h-5" />
-                Prefer to call? (720) 450-1653
+                Prefer to call? (719) 859-0314
               </a>
             </div>
             <div>

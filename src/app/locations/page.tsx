@@ -54,7 +54,7 @@ export default function LocationsPage() {
             Service Areas
           </h1>
           <p className="text-lg sm:text-xl text-white/85 max-w-2xl mx-auto leading-relaxed">
-            From Castle Rock to Broomfield, Elite Turf Refresh brings professional
+            From Castle Rock to Broomfield, Turf Revival Pros brings professional
             turf cleaning and putting green maintenance to the entire Denver metro.
           </p>
         </div>
@@ -116,10 +116,10 @@ export default function LocationsPage() {
             isn&apos;t listed, reach out — we may already serve your area.
           </p>
           <a
-            href="tel:7204501653"
+            href="tel:7198590314"
             className="inline-flex items-center gap-2 bg-etr-green hover:bg-etr-green-dark text-white font-heading font-semibold px-8 py-3.5 rounded-lg transition-colors text-lg"
           >
-            Call (720) 450-1653
+            Call (719) 859-0314
           </a>
         </div>
       </section>

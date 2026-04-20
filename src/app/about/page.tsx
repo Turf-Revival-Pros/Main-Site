@@ -88,7 +88,7 @@ export default function AboutPage() {
               <div className="rounded-2xl overflow-hidden shadow-lg">
                 <img
                   src="/images/etr/IMG_0444.jpg"
-                  alt="Custom putting green designed and maintained by Elite Turf Refresh"
+                  alt="Custom putting green designed and maintained by Turf Revival Pros"
                   className="w-full h-64 object-cover"
                 />
               </div>

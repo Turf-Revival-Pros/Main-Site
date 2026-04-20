@@ -3,7 +3,7 @@ import { FAQItem } from '@/types';
 export const faqs: FAQItem[] = [
   // General
   {
-    question: 'What areas does Elite Turf Refresh serve?',
+    question: 'What areas does Turf Revival Pros serve?',
     answer:
       'We serve the Denver metro area from Castle Rock to Broomfield, with our core service area in Douglas County. This includes Parker, Castle Pines, Castle Rock, Lone Tree, Highlands Ranch, Centennial, Greenwood Village, Cherry Hills Village, Lakewood, Arvada, and many more communities.',
     category: 'general',
@@ -11,7 +11,7 @@ export const faqs: FAQItem[] = [
   {
     question: 'How do I schedule a service appointment?',
     answer:
-      'You can call us at (720) 450-1653, email info@eliteturfrefresh.com, or fill out the contact form on our website. We will get back to you within one business day with availability and a free estimate.',
+      'You can call us at (719) 859-0314, email info@turfrevivalpros.com, or fill out the contact form on our website. We will get back to you within one business day with availability and a free estimate.',
     category: 'general',
   },
   {
@@ -113,7 +113,7 @@ export const faqs: FAQItem[] = [
   {
     question: 'Do other turf companies in Denver offer putting green services?',
     answer:
-      'Very few, and most treat putting greens like any other turf surface. Putting greens require specific knowledge of infill behavior, speed calibration, and surface performance. Our putting green specialty is what sets Elite Turf Refresh apart from other Denver turf companies.',
+      'Very few, and most treat putting greens like any other turf surface. Putting greens require specific knowledge of infill behavior, speed calibration, and surface performance. Our putting green specialty is what sets Turf Revival Pros apart from other Denver turf companies.',
     category: 'putting-greens',
   },
 

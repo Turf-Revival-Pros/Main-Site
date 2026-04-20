@@ -11,7 +11,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all of Parker including Stonegate, The Pinery, Canterberry, Motsenbocker, and surrounding neighborhoods.',
     neighborhoods: ['Stonegate', 'The Pinery', 'Canterberry', 'Motsenbocker', 'Idyllwilde', 'Tallman Gulch'],
-    metaTitle: 'Artificial Turf Cleaning in Parker, CO | Elite Turf Refresh',
+    metaTitle: 'Artificial Turf Cleaning in Parker, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning and putting green maintenance in Parker, CO. Serving Stonegate, The Pinery, Canterberry, and all Parker neighborhoods. Free estimates.',
     localContext:
@@ -26,9 +26,9 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Castle Pines Village, Castle Pines North, and all surrounding communities.',
     neighborhoods: ['Castle Pines Village', 'Castle Pines North', 'The Canyons', 'Lagae Ranch', 'Sapphire Pointe'],
-    metaTitle: 'Turf Cleaning & Putting Green Care in Castle Pines, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning & Putting Green Care in Castle Pines, CO | Turf Revival Pros',
     metaDescription:
-      'Expert artificial turf cleaning and putting green maintenance for Castle Pines, CO. Premium service for luxury properties. Call (720) 450-1653.',
+      'Expert artificial turf cleaning and putting green maintenance for Castle Pines, CO. Premium service for luxury properties. Call (719) 859-0314.',
     localContext:
       'Castle Pines is home to some of the Denver metro area\'s most prestigious properties, including many with custom putting greens inspired by the area\'s golf heritage. At nearly 6,200 feet elevation, the intense Colorado sun and dry air take a toll on even the highest-quality synthetic surfaces. Homeowners here expect premium results and meticulous attention to detail — exactly what our putting green specialty delivers. The community\'s high property values make turf maintenance a smart investment in curb appeal.',
   },
@@ -41,7 +41,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Castle Rock neighborhoods including The Meadows, Founders Village, Terrain, and surrounding areas.',
     neighborhoods: ['The Meadows', 'Founders Village', 'Terrain', 'Crystal Valley', 'Castlewood Ranch', 'Red Hawk'],
-    metaTitle: 'Artificial Turf Cleaning in Castle Rock, CO | Elite Turf Refresh',
+    metaTitle: 'Artificial Turf Cleaning in Castle Rock, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning and restoration in Castle Rock, CO. Serving The Meadows, Founders Village, and all Castle Rock communities. Free estimates.',
     localContext:
@@ -56,7 +56,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Lone Tree neighborhoods including Heritage Hills, Carriage Club, RidgeGate, and surrounding areas.',
     neighborhoods: ['Heritage Hills', 'Carriage Club', 'RidgeGate', 'Acres Green', 'Lincoln Station'],
-    metaTitle: 'Turf Cleaning & Restoration in Lone Tree, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning & Restoration in Lone Tree, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning and putting green maintenance in Lone Tree, CO. Serving Heritage Hills, RidgeGate, and all Lone Tree neighborhoods.',
     localContext:
@@ -71,9 +71,9 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Highlands Ranch neighborhoods including Westridge, Eastridge, Northridge, Southridge, and the Town Center area.',
     neighborhoods: ['Westridge', 'Eastridge', 'Northridge', 'Southridge', 'Highlands Ranch Town Center', 'BackCountry'],
-    metaTitle: 'Artificial Turf Cleaning in Highlands Ranch, CO | Elite Turf Refresh',
+    metaTitle: 'Artificial Turf Cleaning in Highlands Ranch, CO | Turf Revival Pros',
     metaDescription:
-      'Professional artificial turf cleaning and restoration in Highlands Ranch, CO. Serving all HR neighborhoods. Pet-safe treatments available. Call (720) 450-1653.',
+      'Professional artificial turf cleaning and restoration in Highlands Ranch, CO. Serving all HR neighborhoods. Pet-safe treatments available. Call (719) 859-0314.',
     localContext:
       'Highlands Ranch\'s family-oriented neighborhoods mean high turf usage from kids and pets, which accelerates wear and can lead to odor buildup in pet areas. The community\'s 22 miles of open space and outdoor recreation culture extends to backyards, where residents expect their artificial turf to look as good as the community\'s well-maintained common areas. With over 26,000 homes, Highlands Ranch represents a significant concentration of turf installations that benefit from professional care adapted to Colorado\'s climate.',
   },
@@ -86,7 +86,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve the Roxborough area including Roxborough Park, Roxborough Village, and Sterling Ranch.',
     neighborhoods: ['Roxborough Park', 'Roxborough Village', 'Sterling Ranch', 'Ravenna'],
-    metaTitle: 'Turf Cleaning in Roxborough, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Roxborough, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning and maintenance in Roxborough, CO. Serving Roxborough Park, Sterling Ranch, and surrounding areas.',
     localContext:
@@ -101,11 +101,11 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Sedalia and surrounding unincorporated Douglas County areas along Highway 85 and Highway 67.',
     neighborhoods: ['Sedalia Town Center', 'Jarre Creek Ranch', 'Spruce Mountain'],
-    metaTitle: 'Turf Cleaning in Sedalia, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Sedalia, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning in Sedalia, CO. Serving Sedalia and surrounding Douglas County properties. Free estimates.',
     localContext:
-      'Sedalia\'s larger properties and rural character mean turf installations often see unique challenges including wind-driven debris, exposure to range dust, and wildlife activity. The area\'s slightly higher elevation brings even more intense UV exposure. Homeowners in Sedalia typically invest in quality work and appreciate the personalized, owner-operated approach that Elite Turf Refresh provides.',
+      'Sedalia\'s larger properties and rural character mean turf installations often see unique challenges including wind-driven debris, exposure to range dust, and wildlife activity. The area\'s slightly higher elevation brings even more intense UV exposure. Homeowners in Sedalia typically invest in quality work and appreciate the personalized, owner-operated approach that Turf Revival Pros provides.',
   },
   {
     slug: 'franktown',
@@ -116,7 +116,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Franktown and surrounding unincorporated Douglas County areas along Highway 86.',
     neighborhoods: ['Franktown proper', 'Cherry Creek Valley', 'Ponderosa Hills'],
-    metaTitle: 'Turf Cleaning in Franktown, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Franktown, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning for Franktown, CO properties. Serving Franktown and eastern Douglas County. Free estimates available.',
     localContext:
@@ -133,7 +133,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all of Centennial including areas near Streets at SouthGlenn, Southglenn, and neighborhoods throughout the city.',
     neighborhoods: ['Southglenn', 'Piney Creek', 'Smoky Hill', 'Fox Hill', 'Walnut Hills', 'Orchard Hills'],
-    metaTitle: 'Artificial Turf Cleaning in Centennial, CO | Elite Turf Refresh',
+    metaTitle: 'Artificial Turf Cleaning in Centennial, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning and restoration in Centennial, CO. Serving Southglenn, Piney Creek, Smoky Hill, and all Centennial neighborhoods.',
     localContext:
@@ -148,7 +148,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Aurora neighborhoods in the western and central portions of the city, closest to our Douglas County base.',
     neighborhoods: ['Southlands', 'Saddle Rock', 'Tallyn\'s Reach', 'Murphy Creek', 'Quincy Reservoir area'],
-    metaTitle: 'Turf Cleaning in Aurora, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Aurora, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning and odor treatment in Aurora, CO. Serving Southlands, Saddle Rock, and western Aurora neighborhoods.',
     localContext:
@@ -163,7 +163,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Englewood neighborhoods and surrounding areas near CityCenter Englewood.',
     neighborhoods: ['Bates-Logan', 'Tiffany', 'Cinderella City area', 'Clarkson-Baker'],
-    metaTitle: 'Turf Cleaning in Englewood, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Englewood, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning and pet odor treatment in Englewood, CO. Small-yard specialists. Free estimates available.',
     localContext:
@@ -178,7 +178,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all of Cherry Hills Village including estates near Cherry Hills Country Club and the Glenmoor area.',
     neighborhoods: ['Cherry Hills Country Club area', 'Glenmoor', 'Old Cherry Hills', 'Cherry Hills Farm'],
-    metaTitle: 'Premium Turf & Putting Green Care in Cherry Hills Village, CO | Elite Turf Refresh',
+    metaTitle: 'Premium Turf & Putting Green Care in Cherry Hills Village, CO | Turf Revival Pros',
     metaDescription:
       'Premium artificial turf cleaning and putting green maintenance in Cherry Hills Village, CO. White-glove service for luxury properties.',
     localContext:
@@ -193,9 +193,9 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Greenwood Village neighborhoods including areas near Fiddler\'s Green, The Preserve, and Village Center.',
     neighborhoods: ['The Preserve', 'Village Center', 'Fiddler\'s Green area', 'Orchard Hills', 'Sundance Hills'],
-    metaTitle: 'Turf Cleaning & Putting Green Service in Greenwood Village, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning & Putting Green Service in Greenwood Village, CO | Turf Revival Pros',
     metaDescription:
-      'Professional turf cleaning and putting green maintenance in Greenwood Village, CO. Premium service for executive homes. Call (720) 450-1653.',
+      'Professional turf cleaning and putting green maintenance in Greenwood Village, CO. Premium service for executive homes. Call (719) 859-0314.',
     localContext:
       'Greenwood Village\'s proximity to the Denver Tech Center brings a concentration of executives and professionals who value quality and efficiency. Many homes here feature backyard entertaining areas with premium turf and putting greens. The area\'s mature trees provide shade that can create uneven wear patterns on turf — shaded areas accumulate moisture and organic matter differently than sun-exposed zones. Our thorough approach addresses these varying conditions across each property.',
   },
@@ -208,7 +208,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Foxfield properties and surrounding Arapahoe County areas.',
     neighborhoods: ['Foxfield proper', 'Foxfield Estates', 'Piney Creek adjacent'],
-    metaTitle: 'Turf Cleaning in Foxfield, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Foxfield, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning and maintenance in Foxfield, CO. Personalized service for Foxfield properties.',
     localContext:
@@ -223,7 +223,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve the Columbine area including neighborhoods near Columbine Hills, Ken Caryl adjacent areas, and Dutch Creek.',
     neighborhoods: ['Columbine Hills', 'Columbine Knolls', 'Columbine West', 'Dutch Creek area'],
-    metaTitle: 'Turf Cleaning in Columbine, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Columbine, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning in Columbine, CO. Serving Columbine Hills, Columbine Knolls, and surrounding neighborhoods.',
     localContext:
@@ -240,7 +240,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Lakewood neighborhoods including areas near Belmar, Green Mountain, and Bear Creek.',
     neighborhoods: ['Belmar', 'Green Mountain', 'Bear Creek', 'Lakewood Gulch', 'Creighton Lake', 'Morse Park'],
-    metaTitle: 'Artificial Turf Cleaning in Lakewood, CO | Elite Turf Refresh',
+    metaTitle: 'Artificial Turf Cleaning in Lakewood, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning and restoration in Lakewood, CO. Serving Belmar, Green Mountain, and all Lakewood neighborhoods. Free estimates.',
     localContext:
@@ -255,7 +255,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Morrison and surrounding foothills areas including Mount Falcon and Indian Hills adjacent properties.',
     neighborhoods: ['Morrison town center', 'Bear Creek Canyon', 'Mt. Falcon area'],
-    metaTitle: 'Turf Cleaning in Morrison, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Morrison, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning for Morrison, CO properties. Foothills-adapted service. Free estimates available.',
     localContext:
@@ -270,7 +270,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Ken Caryl Ranch, Ken Caryl Valley, and the surrounding community.',
     neighborhoods: ['Ken Caryl Ranch', 'Ken Caryl Valley', 'The Settlement', 'The Plains', 'North Ranch'],
-    metaTitle: 'Turf & Putting Green Service in Ken Caryl, CO | Elite Turf Refresh',
+    metaTitle: 'Turf & Putting Green Service in Ken Caryl, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning and putting green maintenance in Ken Caryl, CO. Serving Ken Caryl Ranch, the Valley, and all KCA neighborhoods.',
     localContext:
@@ -285,7 +285,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Wheat Ridge neighborhoods and surrounding areas.',
     neighborhoods: ['Prospect Park', 'Applewood', 'Anderson Park', 'Panorama Park'],
-    metaTitle: 'Turf Cleaning in Wheat Ridge, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Wheat Ridge, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning in Wheat Ridge, CO. Serving Applewood, Prospect Park, and all Wheat Ridge neighborhoods.',
     localContext:
@@ -300,7 +300,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Golden and surrounding areas including North Golden, South Golden, and Lookout Mountain adjacent neighborhoods.',
     neighborhoods: ['Downtown Golden', 'North Golden', 'South Golden', 'Mesa Meadows', 'Kinney Run'],
-    metaTitle: 'Turf Cleaning in Golden, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Golden, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning and restoration in Golden, CO. Foothills-adapted service for Golden homeowners.',
     localContext:
@@ -315,7 +315,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Arvada neighborhoods from Olde Town to Candelas and Leyden Rock.',
     neighborhoods: ['Olde Town Arvada', 'Candelas', 'Leyden Rock', 'Ralston Valley', 'West Woods', 'Whisper Creek'],
-    metaTitle: 'Artificial Turf Cleaning in Arvada, CO | Elite Turf Refresh',
+    metaTitle: 'Artificial Turf Cleaning in Arvada, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning and pet odor treatment in Arvada, CO. Serving Candelas, Leyden Rock, Olde Town, and all Arvada neighborhoods.',
     localContext:
@@ -332,9 +332,9 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Denver neighborhoods throughout the city, with particular focus on south and east Denver communities.',
     neighborhoods: ['Washington Park', 'Cherry Creek', 'Hilltop', 'Lowry', 'Park Hill', 'Platt Park'],
-    metaTitle: 'Artificial Turf Cleaning in Denver, CO | Elite Turf Refresh',
+    metaTitle: 'Artificial Turf Cleaning in Denver, CO | Turf Revival Pros',
     metaDescription:
-      'Professional artificial turf cleaning and putting green maintenance throughout Denver, CO. Serving all Denver neighborhoods. Call (720) 450-1653.',
+      'Professional artificial turf cleaning and putting green maintenance throughout Denver, CO. Serving all Denver neighborhoods. Call (719) 859-0314.',
     localContext:
       'Denver\'s mile-high altitude delivers approximately 25% more UV radiation than sea-level cities, which accelerates turf fiber degradation and color fading. The city\'s 300 days of sunshine are great for outdoor living but tough on synthetic surfaces. Denver\'s diverse neighborhoods each present different turf challenges — from small urban yards in Washington Park to estate properties in Hilltop. Professional turf care adapted for Denver\'s unique altitude and climate helps homeowners protect their investment.',
   },
@@ -347,7 +347,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Cherry Creek North, Cherry Creek South, and the surrounding area.',
     neighborhoods: ['Cherry Creek North', 'Cherry Creek South', 'Cherry Creek East', 'Country Club'],
-    metaTitle: 'Premium Turf Cleaning in Cherry Creek Denver | Elite Turf Refresh',
+    metaTitle: 'Premium Turf Cleaning in Cherry Creek Denver | Turf Revival Pros',
     metaDescription:
       'Premium artificial turf cleaning and putting green maintenance in Cherry Creek, Denver. White-glove service for luxury properties.',
     localContext:
@@ -362,7 +362,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Washington Park East, Washington Park West, and adjacent areas.',
     neighborhoods: ['Washington Park East', 'Washington Park West', 'South Pearl Street area'],
-    metaTitle: 'Turf Cleaning in Washington Park Denver | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Washington Park Denver | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning in Washington Park, Denver. Small-yard specialists with pet-safe treatments. Free estimates.',
     localContext:
@@ -377,7 +377,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Hilltop and adjacent Crestmoor and Belcaro areas.',
     neighborhoods: ['Hilltop', 'Crestmoor', 'Cranmer Park area'],
-    metaTitle: 'Turf & Putting Green Care in Hilltop Denver | Elite Turf Refresh',
+    metaTitle: 'Turf & Putting Green Care in Hilltop Denver | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning and putting green maintenance in Hilltop, Denver. Expert care for premium properties.',
     localContext:
@@ -392,7 +392,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve the Lowry neighborhood including Lowry Town Center and Boulevard One areas.',
     neighborhoods: ['Lowry Town Center', 'Boulevard One', 'Lowry North', 'Lowry South'],
-    metaTitle: 'Turf Cleaning in Lowry Denver | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Lowry Denver | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning in Lowry, Denver. Serving Lowry Town Center, Boulevard One, and all Lowry neighborhoods.',
     localContext:
@@ -407,7 +407,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve University Hills and adjacent neighborhoods near the University of Denver.',
     neighborhoods: ['University Hills', 'University Hills North', 'University Park', 'Observatory Park adjacent'],
-    metaTitle: 'Turf Cleaning in University Hills Denver | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in University Hills Denver | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning in University Hills, Denver. Affordable maintenance for residential artificial turf.',
     localContext:
@@ -422,7 +422,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Belcaro and adjacent Virginia Village and Bonnie Brae areas.',
     neighborhoods: ['Belcaro', 'Belcaro East', 'Virginia Village adjacent'],
-    metaTitle: 'Turf Cleaning in Belcaro Denver | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Belcaro Denver | Turf Revival Pros',
     metaDescription:
       'Premium turf cleaning and putting green care in Belcaro, Denver. Expert maintenance for upscale properties.',
     localContext:
@@ -437,7 +437,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Observatory Park and adjacent University Park neighborhoods.',
     neighborhoods: ['Observatory Park', 'Observatory Park North', 'University Park adjacent'],
-    metaTitle: 'Turf Cleaning in Observatory Park Denver | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Observatory Park Denver | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning in Observatory Park, Denver. Neighborhood-focused service with free estimates.',
     localContext:
@@ -452,7 +452,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Central Park neighborhoods including Beeler Park, Conservatory Green, Willow Park East, and surrounding areas.',
     neighborhoods: ['Beeler Park', 'Conservatory Green', 'Willow Park East', 'Northfield', 'Central Park West'],
-    metaTitle: 'Turf Cleaning in Central Park (Stapleton) Denver | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Central Park (Stapleton) Denver | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning in Central Park (Stapleton), Denver. Serving Beeler Park, Conservatory Green, and all CP neighborhoods.',
     localContext:
@@ -467,7 +467,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve North Park Hill, South Park Hill, and Northeast Park Hill.',
     neighborhoods: ['North Park Hill', 'South Park Hill', 'Northeast Park Hill'],
-    metaTitle: 'Turf Cleaning in Park Hill Denver | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Park Hill Denver | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning and pet treatments in Park Hill, Denver. Serving North, South, and Northeast Park Hill.',
     localContext:
@@ -482,7 +482,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Bonnie Brae and the surrounding South Denver area.',
     neighborhoods: ['Bonnie Brae', 'Bonnie Brae South', 'South Gaylord adjacent'],
-    metaTitle: 'Turf Cleaning in Bonnie Brae Denver | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Bonnie Brae Denver | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning in Bonnie Brae, Denver. Compact yard specialists. Free estimates available.',
     localContext:
@@ -497,7 +497,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Platt Park and adjacent Rosedale and Harvard Park neighborhoods.',
     neighborhoods: ['Platt Park', 'Rosedale', 'Harvard Park', 'South Pearl Street area'],
-    metaTitle: 'Turf Cleaning in Platt Park Denver | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Platt Park Denver | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning in Platt Park, Denver. Modern turf care for South Denver\'s trendiest neighborhood.',
     localContext:
@@ -514,7 +514,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Broomfield neighborhoods including Broadlands, Anthem, McKay Landing, and surrounding areas.',
     neighborhoods: ['Broadlands', 'Anthem', 'McKay Landing', 'Aspen Creek', 'Wildgrass'],
-    metaTitle: 'Artificial Turf Cleaning in Broomfield, CO | Elite Turf Refresh',
+    metaTitle: 'Artificial Turf Cleaning in Broomfield, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning and maintenance in Broomfield, CO. Serving Broadlands, Anthem, and all Broomfield neighborhoods. Free estimates.',
     localContext:
@@ -529,7 +529,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Westminster neighborhoods in the southern and central portions of the city.',
     neighborhoods: ['Bradburn', 'Hyland Greens', 'Legacy Ridge', 'Ranch Reserve', 'Countryside'],
-    metaTitle: 'Turf Cleaning in Westminster, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Westminster, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning and restoration in Westminster, CO. Serving Bradburn, Legacy Ridge, and Westminster neighborhoods.',
     localContext:
@@ -544,7 +544,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve Thornton neighborhoods in the southern and central portions of the city.',
     neighborhoods: ['North Creek Farms', 'Todd Creek', 'Hunters Glen', 'Village East'],
-    metaTitle: 'Turf Cleaning in Thornton, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Thornton, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning in Thornton, CO. Pet-safe treatments and fiber restoration for Thornton families.',
     localContext:
@@ -559,7 +559,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Northglenn neighborhoods and surrounding areas.',
     neighborhoods: ['Northglenn Heights', 'Jaycee Park area', 'Malley Drive area', 'Huron Park'],
-    metaTitle: 'Turf Cleaning in Northglenn, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Northglenn, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning in Northglenn, CO. Affordable maintenance for residential artificial turf. Free estimates.',
     localContext:
@@ -576,7 +576,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Littleton neighborhoods including Historic Downtown, Ketring Park, and surrounding areas.',
     neighborhoods: ['Historic Downtown Littleton', 'Ketring Park', 'Progress Park', 'Columbine Valley adjacent', 'Heritage Village'],
-    metaTitle: 'Turf Cleaning in Littleton, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Littleton, CO | Turf Revival Pros',
     metaDescription:
       'Professional artificial turf cleaning and restoration in Littleton, CO. Serving downtown Littleton and all neighborhoods. Free estimates.',
     localContext:
@@ -591,7 +591,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all Sheridan neighborhoods and surrounding areas along Federal Boulevard.',
     neighborhoods: ['Fort Logan adjacent', 'Sheridan Center', 'River Point area'],
-    metaTitle: 'Turf Cleaning in Sheridan, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Sheridan, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning in Sheridan, CO. Affordable service for small-yard artificial turf. Free estimates.',
     localContext:
@@ -606,7 +606,7 @@ export const locations: Location[] = [
     serviceAreaDescription:
       'We serve all of Glendale and surrounding Cherry Creek-adjacent areas.',
     neighborhoods: ['Glendale proper', 'Infinity Park area', 'Cherry Creek adjacent'],
-    metaTitle: 'Turf Cleaning in Glendale, CO | Elite Turf Refresh',
+    metaTitle: 'Turf Cleaning in Glendale, CO | Turf Revival Pros',
     metaDescription:
       'Professional turf cleaning in Glendale, CO. Urban turf specialists. Fast, affordable service.',
     localContext:

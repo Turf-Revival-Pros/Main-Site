@@ -50,10 +50,10 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
     datePublished: post.publishedDate,
     publisher: {
       '@type': 'Organization',
-      name: 'Elite Turf Refresh',
-      url: 'https://eliteturfrefresh.com',
+      name: 'Turf Revival Pros',
+      url: 'https://turfrevivalpros.com',
     },
-    image: `https://eliteturfrefresh.com${post.featuredImage}`,
+    image: `https://turfrevivalpros.com${post.featuredImage}`,
   };
 
   return (

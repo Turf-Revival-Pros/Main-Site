@@ -38,7 +38,7 @@ export default function Footer() {
             <Link href="/" className="inline-block mb-4">
               <Image
                 src="/images/etr-logo-wide.png"
-                alt="Elite Turf Refresh"
+                alt="Turf Revival Pros"
                 width={600}
                 height={338}
                 className="h-24 w-auto brightness-0 invert"

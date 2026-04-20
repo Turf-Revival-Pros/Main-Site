@@ -44,11 +44,11 @@ export default function TestimonialSection() {
               <ArrowRight className="w-5 h-5" />
             </Link>
             <a
-              href="tel:7204501653"
+              href="tel:7198590314"
               className="inline-flex items-center gap-2 text-etr-green font-heading font-semibold hover:text-etr-green-dark transition-colors"
             >
               <Phone className="w-5 h-5" />
-              (720) 450-1653
+              (719) 859-0314
             </a>
           </div>
         </div>

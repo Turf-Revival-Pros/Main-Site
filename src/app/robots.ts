@@ -10,6 +10,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://eliteturfrefresh.com/sitemap.xml',
+    sitemap: 'https://turfrevivalpros.com/sitemap.xml',
   };
 }

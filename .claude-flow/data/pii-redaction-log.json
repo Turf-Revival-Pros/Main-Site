@@ -1,5 +1,64 @@
 [
   {
+    "timestamp": "2026-04-20T20:44:25.456Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Email Address",
+        "count": 3
+      },
+      {
+        "type": "Phone Number",
+        "count": 2
+      }
+    ],
+    "inputLength": 950
+  },
+  {
+    "timestamp": "2026-04-20T20:43:32.717Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Phone Number",
+        "count": 2
+      }
+    ],
+    "inputLength": 1115
+  },
+  {
+    "timestamp": "2026-04-20T20:43:04.782Z",
+    "tool": "edit",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 423
+  },
+  {
+    "timestamp": "2026-04-20T20:43:02.534Z",
+    "tool": "edit",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 219
+  },
+  {
+    "timestamp": "2026-04-20T20:42:37.006Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 355
+  },
+  {
     "timestamp": "2026-04-17T18:29:11.348Z",
     "tool": "bash",
     "redacted": [
@@ -1079,64 +1138,5 @@
       }
     ],
     "inputLength": 3119
-  },
-  {
-    "timestamp": "2026-04-12T20:58:44.000Z",
-    "tool": "write",
-    "redacted": [
-      {
-        "type": "Possible Mnemonic Seed",
-        "count": 1
-      }
-    ],
-    "inputLength": 950
-  },
-  {
-    "timestamp": "2026-04-12T20:58:41.135Z",
-    "tool": "write",
-    "redacted": [
-      {
-        "type": "Email Address",
-        "count": 1
-      },
-      {
-        "type": "Phone Number",
-        "count": 1
-      }
-    ],
-    "inputLength": 1406
-  },
-  {
-    "timestamp": "2026-04-12T20:58:07.023Z",
-    "tool": "bash",
-    "redacted": [
-      {
-        "type": "Possible Mnemonic Seed",
-        "count": 1
-      }
-    ],
-    "inputLength": 140
-  },
-  {
-    "timestamp": "2026-04-12T20:58:06.745Z",
-    "tool": "bash",
-    "redacted": [
-      {
-        "type": "Possible Mnemonic Seed",
-        "count": 1
-      }
-    ],
-    "inputLength": 323
-  },
-  {
-    "timestamp": "2026-04-12T20:57:20.635Z",
-    "tool": "bash",
-    "redacted": [
-      {
-        "type": "Possible Mnemonic Seed",
-        "count": 1
-      }
-    ],
-    "inputLength": 839
   }
 ]

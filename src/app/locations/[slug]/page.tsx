@@ -53,11 +53,11 @@ export default async function LocationDetailPage({ params }: LocationPageProps) 
       <JsonLd data={{
         '@context': 'https://schema.org',
         '@type': 'LocalBusiness',
-        name: 'Elite Turf Refresh',
+        name: 'Turf Revival Pros',
         description: `Professional artificial turf cleaning and putting green maintenance in ${location.name}, ${location.county}.`,
-        url: `https://eliteturfrefresh.com/locations/${slug}`,
-        telephone: '(720) 450-1653',
-        email: 'info@eliteturfrefresh.com',
+        url: `https://turfrevivalpros.com/locations/${slug}`,
+        telephone: '(719) 859-0314',
+        email: 'info@turfrevivalpros.com',
         areaServed: {
           '@type': 'City',
           name: location.name,
@@ -196,7 +196,7 @@ export default async function LocationDetailPage({ params }: LocationPageProps) 
                   We appreciate honest feedback from {location.name} homeowners. Your review helps others find quality turf care.
                 </p>
                 <a
-                  href="https://g.page/r/eliteturfrefresh/review"
+                  href="https://g.page/r/turfrevivalpros/review"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-etr-green hover:bg-etr-green-dark text-white font-heading font-semibold px-6 py-3 rounded-lg transition-colors text-sm"

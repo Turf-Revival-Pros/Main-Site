@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | Elite Turf Refresh',
+  title: 'Privacy Policy | Turf Revival Pros',
   description:
-    'Privacy policy for Elite Turf Refresh. Learn how we collect, use, and protect your personal information.',
+    'Privacy policy for Turf Revival Pros. Learn how we collect, use, and protect your personal information.',
 };
 
 export default function PrivacyPolicyPage() {
@@ -21,13 +21,13 @@ export default function PrivacyPolicyPage() {
           Information We Collect
         </h2>
         <p className="text-etr-gray-light leading-relaxed mb-4">
-          Elite Turf Refresh (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or
+          Turf Revival Pros (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or
           &ldquo;our&rdquo;) collects information you voluntarily provide when
           you fill out our contact or quote request forms, including your name,
           email address, phone number, and details about your turf care needs. We
           may also collect usage data through cookies and analytics tools to
           understand how visitors interact with our website at
-          eliteturfrefresh.com.
+          turfrevivalpros.com.
         </p>
 
         <h2 className="text-xl font-heading font-bold text-etr-black mt-8 mb-3">
@@ -90,18 +90,18 @@ export default function PrivacyPolicyPage() {
         </p>
         <ul className="text-etr-gray-light space-y-1 mb-4">
           <li>
-            <strong>Elite Turf Refresh</strong>
+            <strong>Turf Revival Pros</strong>
           </li>
           <li>
             Email:{' '}
             <a
-              href="mailto:info@eliteturfrefresh.com"
+              href="mailto:info@turfrevivalpros.com"
               className="text-etr-blue hover:text-etr-blue-dark"
             >
-              info@eliteturfrefresh.com
+              info@turfrevivalpros.com
             </a>
           </li>
-          <li>Phone: (720) 450-1653</li>
+          <li>Phone: (719) 859-0314</li>
         </ul>
       </div>
     </section>

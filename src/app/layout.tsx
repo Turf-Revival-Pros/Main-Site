@@ -23,20 +23,20 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Elite Turf Refresh | Professional Artificial Turf Cleaning in Denver',
+  title: 'Turf Revival Pros | Professional Artificial Turf Cleaning in Denver',
   description:
-    'Professional artificial turf cleaning, sanitization, and putting green restoration for the Denver metro area. Serving Castle Rock to Broomfield. Call (720) 450-1653 for a free quote.',
-  metadataBase: new URL('https://eliteturfrefresh.com'),
+    'Professional artificial turf cleaning, sanitization, and putting green restoration for the Denver metro area. Serving Castle Rock to Broomfield. Call (719) 859-0314 for a free quote.',
+  metadataBase: new URL('https://turfrevivalpros.com'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    siteName: 'Elite Turf Refresh',
+    siteName: 'Turf Revival Pros',
     images: [
       {
         url: '/images/etr-logo-wide.png',
         width: 1200,
         height: 630,
-        alt: 'Elite Turf Refresh — Artificial Turf Cleaning & Putting Green Refresh in Denver',
+        alt: 'Turf Revival Pros — Artificial Turf Cleaning & Putting Green Refresh in Denver',
       },
     ],
   },
@@ -59,12 +59,12 @@ export const viewport: Viewport = {
 const localBusinessLd = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
-  name: 'Elite Turf Refresh',
+  name: 'Turf Revival Pros',
   description:
     'Professional artificial turf cleaning, sanitization, and putting green restoration serving the Denver metro area.',
-  url: 'https://eliteturfrefresh.com',
-  telephone: '(720) 450-1653',
-  email: 'info@eliteturfrefresh.com',
+  url: 'https://turfrevivalpros.com',
+  telephone: '(719) 859-0314',
+  email: 'info@turfrevivalpros.com',
   areaServed: {
     '@type': 'GeoCircle',
     geoMidpoint: {
@@ -82,7 +82,7 @@ const localBusinessLd = {
   },
   openingHours: ['Mo-Fr 07:00-18:00', 'Sa 08:00-16:00'],
   priceRange: '$$',
-  image: 'https://eliteturfrefresh.com/images/etr-logo.png',
+  image: 'https://turfrevivalpros.com/images/etr-logo.png',
 };
 
 export default function RootLayout({

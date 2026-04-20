@@ -52,10 +52,10 @@ export async function generateMetadata({ params }: ComboPageProps): Promise<Meta
   const { service, location } = parsed;
 
   return {
-    title: `${service.name} in ${location.name}, CO | Elite Turf Refresh`,
-    description: `Professional ${service.name.toLowerCase()} services in ${location.name}, ${location.county}. ${service.shortDescription} Call (720) 450-1653 for a free estimate.`,
+    title: `${service.name} in ${location.name}, CO | Turf Revival Pros`,
+    description: `Professional ${service.name.toLowerCase()} services in ${location.name}, ${location.county}. ${service.shortDescription} Call (719) 859-0314 for a free estimate.`,
     alternates: {
-      canonical: `https://eliteturfrefresh.com/${combo}`,
+      canonical: `https://turfrevivalpros.com/${combo}`,
     },
   };
 }
@@ -79,15 +79,15 @@ export default async function ComboPage({ params }: ComboPageProps) {
     description: `Professional ${service.name.toLowerCase()} for homeowners in ${location.name}, ${location.county}.`,
     provider: {
       '@type': 'LocalBusiness',
-      name: 'Elite Turf Refresh',
-      url: 'https://eliteturfrefresh.com',
-      telephone: '(720) 450-1653',
+      name: 'Turf Revival Pros',
+      url: 'https://turfrevivalpros.com',
+      telephone: '(719) 859-0314',
     },
     areaServed: {
       '@type': 'City',
       name: location.name,
     },
-    url: `https://eliteturfrefresh.com/${combo}`,
+    url: `https://turfrevivalpros.com/${combo}`,
   };
 
   return (
@@ -137,11 +137,11 @@ export default async function ComboPage({ params }: ComboPageProps) {
               Get a Free Quote
             </a>
             <a
-              href="tel:7204501653"
+              href="tel:7198590314"
               className="inline-flex items-center justify-center gap-2 border-2 border-white/40 text-white hover:bg-white/10 font-heading font-semibold px-8 py-3.5 rounded-lg transition-colors"
             >
               <Phone className="w-5 h-5" />
-              (720) 450-1653
+              (719) 859-0314
             </a>
           </div>
         </div>
@@ -281,11 +281,11 @@ export default async function ComboPage({ params }: ComboPageProps) {
               Get Your Free Quote
             </a>
             <a
-              href="tel:7204501653"
+              href="tel:7198590314"
               className="inline-flex items-center gap-2 text-white font-heading font-semibold hover:text-etr-blue-light transition-colors"
             >
               <Phone className="w-5 h-5" />
-              (720) 450-1653
+              (719) 859-0314
             </a>
           </div>
         </div>

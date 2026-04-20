@@ -7,7 +7,7 @@ export const services: Service[] = [
     shortDescription:
       'We restore roll consistency and revive putting green performance with infill redistribution, precision fiber brushing, and seam inspection.',
     fullDescription:
-      'Your putting green is a precision surface, and it deserves precision care. Over time, infill migrates, fibers flatten, and seams can shift — all of which degrade ball roll and playability. Our Putting Green Refresh & Tuning service restores your green to peak performance with detailed seam inspection, fiber brushing, infill redistribution, and surface leveling. We finish with performance testing to verify consistent speed and roll across the entire surface. This is what sets Elite Turf Refresh apart from every other turf company in Denver — we actually understand putting greens.',
+      'Your putting green is a precision surface, and it deserves precision care. Over time, infill migrates, fibers flatten, and seams can shift — all of which degrade ball roll and playability. Our Putting Green Refresh & Tuning service restores your green to peak performance with detailed seam inspection, fiber brushing, infill redistribution, and surface leveling. We finish with performance testing to verify consistent speed and roll across the entire surface. This is what sets Turf Revival Pros apart from every other turf company in Denver — we actually understand putting greens.',
     benefits: [
       'Restored ball roll with consistent speed across the entire surface',
       'Improved playability that feels like a freshly installed green',
@@ -25,9 +25,9 @@ export const services: Service[] = [
     ],
     iconName: 'Target',
     image: '/images/etr/IMG_0077.jpg',
-    metaTitle: 'Putting Green Refresh & Tuning | Elite Turf Refresh | Denver',
+    metaTitle: 'Putting Green Refresh & Tuning | Turf Revival Pros | Denver',
     metaDescription:
-      'Professional putting green maintenance and performance tuning in Denver. Restore ball roll, improve consistency, and extend the life of your backyard green. Call (720) 450-1653.',
+      'Professional putting green maintenance and performance tuning in Denver. Restore ball roll, improve consistency, and extend the life of your backyard green. Call (719) 859-0314.',
     faqs: [
       {
         question: 'How often should I have my putting green professionally maintained?',
@@ -75,9 +75,9 @@ export const services: Service[] = [
     ],
     iconName: 'Sparkles',
     image: '/images/services/pet-hair-debris.jpeg',
-    metaTitle: 'Pet Hair & Debris Removal | Elite Turf Refresh | Denver',
+    metaTitle: 'Pet Hair & Debris Removal | Turf Revival Pros | Denver',
     metaDescription:
-      'Professional artificial turf cleaning in Denver. Pet hair removal, debris extraction, magnet sweep, and fiber grooming. Free estimates. Call (720) 450-1653.',
+      'Professional artificial turf cleaning in Denver. Pet hair removal, debris extraction, magnet sweep, and fiber grooming. Free estimates. Call (719) 859-0314.',
     faqs: [
       {
         question: 'How often should my turf be professionally cleaned?',
@@ -120,9 +120,9 @@ export const services: Service[] = [
     ],
     iconName: 'ShieldCheck',
     image: '/images/services/disinfect.jpeg',
-    metaTitle: 'Disinfect & Deodorize Artificial Turf | Elite Turf Refresh | Denver',
+    metaTitle: 'Disinfect & Deodorize Artificial Turf | Turf Revival Pros | Denver',
     metaDescription:
-      'Pet-safe artificial turf sanitization and odor treatment in Denver. Help reduce bacteria and freshen your turf surface. Professional, honest service. Call (720) 450-1653.',
+      'Pet-safe artificial turf sanitization and odor treatment in Denver. Help reduce bacteria and freshen your turf surface. Professional, honest service. Call (719) 859-0314.',
     faqs: [
       {
         question: 'Will the sanitization treatment completely eliminate pet odors?',
@@ -170,7 +170,7 @@ export const services: Service[] = [
     ],
     iconName: 'RefreshCw',
     image: '/images/etr/IMG_0763.jpg',
-    metaTitle: 'Blooming & De-Compacting Artificial Turf | Elite Turf Refresh | Denver',
+    metaTitle: 'Blooming & De-Compacting Artificial Turf | Turf Revival Pros | Denver',
     metaDescription:
       'Professional turf blooming and de-compacting in Denver. Revive matted and flat artificial turf with de-matting, cross-brushing, and infill replenishment. Free estimates.',
     faqs: [

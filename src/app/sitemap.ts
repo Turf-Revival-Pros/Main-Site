@@ -6,7 +6,7 @@ import { services } from '@/data/services';
 import { locations } from '@/data/locations';
 import { blogPosts } from '@/data/blog';
 
-const BASE_URL = 'https://eliteturfrefresh.com';
+const BASE_URL = 'https://turfrevivalpros.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages: MetadataRoute.Sitemap = [
