@@ -1,5 +1,71 @@
 [
   {
+    "timestamp": "2026-04-20T21:18:04.613Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 450
+  },
+  {
+    "timestamp": "2026-04-20T21:17:35.974Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 1004
+  },
+  {
+    "timestamp": "2026-04-20T21:17:10.971Z",
+    "tool": "edit",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 339
+  },
+  {
+    "timestamp": "2026-04-20T21:16:37.979Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 1108
+  },
+  {
+    "timestamp": "2026-04-20T21:16:15.342Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 312
+  },
+  {
+    "timestamp": "2026-04-20T21:15:50.303Z",
+    "tool": "bash",
+    "redacted": [
+      {
+        "type": "Possible Mnemonic Seed",
+        "count": 1
+      }
+    ],
+    "inputLength": 888
+  },
+  {
     "timestamp": "2026-04-20T20:44:25.456Z",
     "tool": "bash",
     "redacted": [
@@ -1068,75 +1134,5 @@
       }
     ],
     "inputLength": 2033
-  },
-  {
-    "timestamp": "2026-04-12T20:59:56.453Z",
-    "tool": "write",
-    "redacted": [
-      {
-        "type": "Phone Number",
-        "count": 2
-      }
-    ],
-    "inputLength": 12631
-  },
-  {
-    "timestamp": "2026-04-12T20:59:48.272Z",
-    "tool": "write",
-    "redacted": [
-      {
-        "type": "Possible Mnemonic Seed",
-        "count": 1
-      }
-    ],
-    "inputLength": 382
-  },
-  {
-    "timestamp": "2026-04-12T20:59:40.801Z",
-    "tool": "bash",
-    "redacted": [
-      {
-        "type": "Possible Mnemonic Seed",
-        "count": 1
-      }
-    ],
-    "inputLength": 273
-  },
-  {
-    "timestamp": "2026-04-12T20:59:37.205Z",
-    "tool": "write",
-    "redacted": [
-      {
-        "type": "Possible Mnemonic Seed",
-        "count": 1
-      }
-    ],
-    "inputLength": 1691
-  },
-  {
-    "timestamp": "2026-04-12T20:59:26.551Z",
-    "tool": "write",
-    "redacted": [
-      {
-        "type": "Email Address",
-        "count": 1
-      },
-      {
-        "type": "Phone Number",
-        "count": 1
-      }
-    ],
-    "inputLength": 1071
-  },
-  {
-    "timestamp": "2026-04-12T20:58:56.371Z",
-    "tool": "write",
-    "redacted": [
-      {
-        "type": "Phone Number",
-        "count": 3
-      }
-    ],
-    "inputLength": 3119
   }
 ]
