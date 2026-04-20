@@ -37,7 +37,7 @@ export default function Footer() {
           <div>
             <Link href="/" className="inline-block mb-4">
               <Image
-                src="/images/etr-logo-wide.png"
+                src="/images/trp-logo-wide.png"
                 alt="Turf Revival Pros"
                 width={600}
                 height={338}

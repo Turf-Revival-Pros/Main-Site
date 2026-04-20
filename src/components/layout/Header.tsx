@@ -44,7 +44,7 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 shrink-0">
             <Image
-              src="/images/etr-logo-wide.png"
+              src="/images/trp-logo-wide.png"
               alt="Turf Revival Pros"
               width={600}
               height={338}
@@ -139,7 +139,7 @@ export default function Header() {
         <div className="p-6">
           <div className="flex justify-between items-center mb-8">
             <Image
-              src="/images/etr-logo-wide.png"
+              src="/images/trp-logo-wide.png"
               alt="Turf Revival Pros"
               width={600}
               height={338}
