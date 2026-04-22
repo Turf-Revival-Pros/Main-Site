@@ -326,7 +326,7 @@ export default function LeadForm({ formId, location, service }: LeadFormProps) {
             value={formData.address}
             onChange={handleChange}
             className="w-full px-4 py-3.5 rounded-lg border-2 border-gray-200 text-base font-body text-etr-black focus:ring-2 focus:ring-etr-green/40 focus:border-etr-green outline-none transition-all"
-            placeholder="123 Main St, Parker, CO 80134"
+            placeholder="123 Main St, Aurora, CO 80012"
           />
           <p className="mt-1 text-xs text-etr-gray-light">
             We can use your address to provide a more accurate quote.

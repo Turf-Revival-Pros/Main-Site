@@ -2,14 +2,14 @@ import { SEOMetadata } from '@/types';
 
 export const pageSEO: Record<string, SEOMetadata> = {
   home: {
-    title: 'Turf Revival Pros | Artificial Turf Cleaning & Putting Green Specialists | Denver, CO',
+    title: 'Turf Revival Pros | Artificial Turf Cleaning & Restoration | Denver, CO',
     description:
-      'Professional artificial turf cleaning, sanitization, and putting green restoration in the Denver metro area. Serving Castle Rock to Broomfield. Call (719) 859-0314.',
+      'Professional artificial turf cleaning, pet odor removal, and fiber restoration in the Denver metro area. Serving Castle Rock to Broomfield. Call (719) 859-0314.',
     keywords: [
       'artificial turf cleaning Denver',
-      'putting green maintenance Denver',
+      'turf cleaning Aurora CO',
+      'pet odor turf Denver',
       'turf restoration Colorado',
-      'artificial turf cleaning',
       'artificial grass cleaning',
       'Denver turf care',
     ],
@@ -17,11 +17,11 @@ export const pageSEO: Record<string, SEOMetadata> = {
   about: {
     title: 'About Turf Revival Pros | Denver Turf Cleaning Experts',
     description:
-      'Learn about Turf Revival Pros, Denver\'s trusted artificial turf cleaning and putting green restoration company. Owner-operated from Parker, CO.',
+      'Learn about Turf Revival Pros, Denver\'s trusted artificial turf cleaning and restoration company. Owner-operated from Aurora, CO.',
     keywords: [
       'about Turf Revival Pros',
       'Denver turf cleaning company',
-      'Parker CO turf care',
+      'Aurora CO turf care',
       'owner-operated turf',
       'artificial turf experts Denver',
     ],

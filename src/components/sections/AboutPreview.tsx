@@ -3,9 +3,9 @@ import Link from 'next/link';
 import { Target, PawPrint, Wrench, MapPin, ArrowRight } from 'lucide-react';
 
 const trustPoints = [
-  { icon: Target, label: 'Putting Green Specialist' },
   { icon: Wrench, label: 'Commercial-Grade Equipment' },
   { icon: PawPrint, label: 'Pet & Child Safe' },
+  { icon: Target, label: 'Full-Service Turf Care' },
   { icon: MapPin, label: 'Denver Metro Local' },
 ];
 
@@ -22,8 +22,8 @@ export default function AboutPreview() {
           {/* Image */}
           <div className="relative aspect-[5/4] rounded-2xl overflow-hidden shadow-lg">
             <Image
-              src="/images/etr/IMG_2920.jpg"
-              alt="Commercial brush machine in use on a putting green"
+              src="/images/ken/putting-green-power-broom-grooming.webp"
+              alt="Turf Revival Pros technician grooming a backyard putting green with a commercial power broom in Colorado"
               fill
               className="object-cover"
             />
@@ -38,24 +38,24 @@ export default function AboutPreview() {
               Denver&apos;s Putting Green &amp; Artificial Turf Care Specialist
             </h2>
             <p className="mt-5 font-body text-etr-gray-light text-lg leading-relaxed">
-              Owner-operated in Parker, Colorado, Turf Revival Pros brings
-              specialized{' '}
-              <Link
-                href="/services/putting-green-refresh"
-                className="text-etr-green font-semibold hover:text-etr-green-dark underline decoration-etr-green/30 hover:decoration-etr-green-dark underline-offset-2"
-              >
-                putting green refresh
-              </Link>{' '}
-              expertise most Denver turf companies don&apos;t offer. We use
-              commercial-grade equipment and pet-safe products to restore ball
-              roll, revive matted fibers, and keep{' '}
+              Owner-operated in Aurora, Colorado, Turf Revival Pros delivers
+              commercial-grade{' '}
               <Link
                 href="/services/turf-cleaning"
                 className="text-etr-green font-semibold hover:text-etr-green-dark underline decoration-etr-green/30 hover:decoration-etr-green-dark underline-offset-2"
               >
-                artificial turf
+                artificial turf cleaning
+              </Link>
+              , pet odor remediation, and fiber restoration for homes across
+              the Denver metro — plus specialty{' '}
+              <Link
+                href="/services/putting-green-refresh"
+                className="text-etr-green font-semibold hover:text-etr-green-dark underline decoration-etr-green/30 hover:decoration-etr-green-dark underline-offset-2"
+              >
+                putting green tune-ups
               </Link>{' '}
-              performing year-round at altitude — across{' '}
+              when the job calls for it. We keep your turf performing
+              year-round at altitude, across{' '}
               <Link
                 href="/locations"
                 className="text-etr-green font-semibold hover:text-etr-green-dark underline decoration-etr-green/30 hover:decoration-etr-green-dark underline-offset-2"

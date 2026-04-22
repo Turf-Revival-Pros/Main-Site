@@ -6,14 +6,14 @@ import { ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const projects = [
-  { src: '/images/etr/IMG_0444.jpg', alt: 'Custom putting green with landscaping in Denver backyard', label: 'Custom Putting Green' },
-  { src: '/images/etr/IMG_2920.jpg', alt: 'Large putting green with Colorado landscape', label: 'Performance Green' },
-  { src: '/images/etr/IMG_1094.jpg', alt: 'Putting green with flags viewed from above', label: 'Practice Green' },
-  { src: '/images/etr/IMG_3059.jpg', alt: 'Residential artificial turf with patio furniture', label: 'Residential Turf' },
-  { src: '/images/etr/IMG_1760.jpg', alt: 'Striped artificial turf backyard in Denver', label: 'Backyard Refresh' },
-  { src: '/images/etr/IMG_5569.jpg', alt: 'Clean striped residential artificial turf', label: 'Deep Clean Result' },
-  { src: '/images/etr/IMG_5471.jpg', alt: 'Large striped backyard lawn with Colorado sky', label: 'Full Yard Service' },
-  { src: '/images/etr/IMG_0496.jpg', alt: 'Putting green in Colorado backyard with mountain views', label: 'Colorado Green' },
+  { src: '/images/ken/putting-green-mountain-view-finished.webp', alt: 'Finished backyard putting green with Colorado mountain views', label: 'Custom Putting Green' },
+  { src: '/images/ken/putting-green-power-broom-grooming.webp', alt: 'Power broom grooming a putting green during a tune-up service', label: 'Precision Tune-Up' },
+  { src: '/images/ken/putting-green-with-sand-bunker.webp', alt: 'Custom putting green with sand bunker feature in Denver backyard', label: 'Green with Bunker' },
+  { src: '/images/ken/putting-green-roller-compaction.webp', alt: 'Technician rolling a putting green with a steel roller for compaction', label: 'Roll & Refresh' },
+  { src: '/images/ken/putting-green-finished-two-cups.webp', alt: 'Finished residential putting green with two cups in Colorado backyard', label: 'Family Green' },
+  { src: '/images/ken/putting-green-edge-seaming.webp', alt: 'Technician seaming the curved edge of a residential putting green', label: 'Precision Installation' },
+  { src: '/images/ken/putting-green-playground-backyard.webp', alt: 'Family-friendly backyard artificial turf beside a playground in Colorado', label: 'Family Backyard' },
+  { src: '/images/ken/putting-green-seam-detail.webp', alt: 'Close-up detail of a precision seam between putting surface and fringe turf', label: 'Craftsmanship' },
 ];
 
 export default function ProjectGallery() {

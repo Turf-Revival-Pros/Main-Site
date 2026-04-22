@@ -13,18 +13,18 @@ export const metadata: Metadata = {
 };
 
 const serviceAreas = [
-  'Parker',
-  'Castle Rock',
+  'Aurora',
+  'Denver',
+  'Centennial',
   'Highlands Ranch',
   'Lone Tree',
-  'Centennial',
+  'Parker',
+  'Castle Rock',
   'Littleton',
   'Lakewood',
   'Arvada',
   'Westminster',
   'Broomfield',
-  'Aurora',
-  'Denver',
   'Thornton',
   'Greenwood Village',
   'Cherry Hills Village',
@@ -61,24 +61,25 @@ export default function AboutPage() {
                 </h2>
                 <div className="space-y-4 text-etr-gray-light leading-relaxed">
                   <p>
-                    {company.name} was founded out of {owner.location} with a
-                    simple observation: homeowners in the Denver metro area were
-                    investing thousands of dollars in beautiful artificial turf,
-                    but had no one to properly maintain it.
+                    {company.name} started with a simple observation:
+                    homeowners across the Denver metro were investing thousands
+                    of dollars in beautiful artificial turf, then watching it
+                    go dull, matted, and smelly within a couple of years — with
+                    no one who specialized in maintaining it properly.
                   </p>
                   <p>
-                    What started as a passion for putting green performance
-                    quickly grew into a full-service artificial turf care
-                    company. Our team saw that most turf cleaning companies
-                    treated every surface the same, but putting greens require
-                    specialized knowledge of infill systems, fiber types, and
-                    performance tuning.
+                    We built the company around the unsexy work most turf
+                    installers skip: deep cleaning, pet odor remediation, fiber
+                    restoration, and tune-ups that bring a tired lawn back to
+                    life. Dirty turf, smelly turf, matted turf — that&apos;s our
+                    wheelhouse. Specialty work like putting green maintenance
+                    is one of the things we handle when the job calls for it.
                   </p>
                   <p>
-                    Today, {company.name} is the Denver metro area&apos;s go-to
-                    specialist for putting green maintenance and comprehensive
-                    turf care. We use commercial-grade steel brush machines and
-                    professional-grade cleaning solutions to deliver results that
+                    Today, {company.name} is the Denver metro area&apos;s
+                    dedicated artificial turf care company, from heavy pet
+                    zones to backyard showpieces. We use commercial-grade
+                    equipment and pet-safe solutions to deliver results that
                     homeowners can see and feel.
                   </p>
                 </div>
@@ -87,8 +88,8 @@ export default function AboutPage() {
             <AnimateOnScroll delay={0.2}>
               <div className="rounded-2xl overflow-hidden shadow-lg">
                 <img
-                  src="/images/etr/IMG_0444.jpg"
-                  alt="Custom putting green designed and maintained by Turf Revival Pros"
+                  src="/images/ken/putting-green-with-sand-bunker.webp"
+                  alt="Custom putting green with sand bunker designed and maintained by Turf Revival Pros"
                   className="w-full h-64 object-cover"
                 />
               </div>

@@ -76,7 +76,7 @@ const localBusinessLd = {
   },
   address: {
     '@type': 'PostalAddress',
-    addressLocality: 'Parker',
+    addressLocality: 'Aurora',
     addressRegion: 'CO',
     addressCountry: 'US',
   },
@@ -101,7 +101,7 @@ export default function RootLayout({
         <link
           rel="preload"
           as="image"
-          href="/images/etr/IMG_0077.jpg"
+          href="/images/ken/putting-green-with-sand-bunker.webp"
           fetchPriority="high"
         />
       </head>

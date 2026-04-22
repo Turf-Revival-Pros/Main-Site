@@ -7,20 +7,20 @@ export const company: Company = {
   email: 'info@turfrevivalpros.com',
   serviceArea: 'Denver Metro — Castle Rock to Broomfield',
   description:
-    'Turf Revival Pros is a professional artificial turf cleaning and restoration company serving the Denver metro area. Owner-operated and based in Parker, CO, we specialize in putting green maintenance and residential turf care throughout Douglas County and beyond.',
+    'Turf Revival Pros is a professional artificial turf cleaning and restoration company serving the Denver metro area. Owner-operated and based in Aurora, CO, we handle everything from pet odor remediation and fiber restoration to putting green tune-ups across the Front Range.',
   mission:
-    'To deliver professional turf cleaning and restoration with unmatched putting green expertise, helping Denver homeowners protect their investment and enjoy their outdoor spaces year-round.',
+    'To deliver professional turf cleaning and restoration that keeps Denver homeowners proud of their outdoor spaces year-round — from matted high-traffic lawns to pet zones and specialty surfaces.',
   differentiators: [
-    'Putting green specialty — competitors in Denver lack putting green expertise',
-    'Deep knowledge of infill systems, fiber types, and performance tuning',
+    'Commercial-grade equipment and pet-safe products',
+    'Deep knowledge of infill systems, fiber types, and drainage',
     'Owner-operated with hands-on quality at every job',
-    'Core service area in Douglas County with Denver metro-wide coverage',
+    'Denver metro-wide coverage with honest assessments',
     'Colorado-specific turf care adapted for altitude, UV, and dry climate',
   ],
 };
 
 export const owner = {
   name: 'Turf Revival Pros',
-  location: 'Parker, CO',
+  location: 'Aurora, CO',
   role: 'Owner-Operated',
 };

@@ -17,10 +17,10 @@ interface ServicePageProps {
 // Secondary photos for the "How It Works" 2-column section on each service detail page.
 // Primary hero images are sourced from services.ts (service.image).
 const secondaryPhotos: Record<string, string> = {
-  'putting-green-refresh': '/images/etr/IMG_0496.jpg',
-  'turf-cleaning': '/images/etr/IMG_3059.jpg',
-  'turf-sanitization': '/images/etr/IMG_1982.jpg',
-  'turf-restoration': '/images/etr/IMG_0444.jpg',
+  'putting-green-refresh': '/images/ken/putting-green-mountain-view-finished.webp',
+  'turf-cleaning': '/images/gallery/service-turf-cleaning.png',
+  'turf-sanitization': '/images/gallery/service-turf-disinfecting-v2.jpeg',
+  'turf-restoration': '/images/ken/putting-green-roller-compaction.webp',
 };
 
 export async function generateStaticParams() {

@@ -68,7 +68,7 @@ export default async function LocationDetailPage({ params }: LocationPageProps) 
         },
         address: {
           '@type': 'PostalAddress',
-          addressLocality: 'Parker',
+          addressLocality: 'Aurora',
           addressRegion: 'CO',
           addressCountry: 'US',
         },
@@ -90,7 +90,7 @@ export default async function LocationDetailPage({ params }: LocationPageProps) 
       <section className="relative py-16 sm:py-20 overflow-hidden">
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('/images/etr/IMG_0763.jpg')" }}
+          style={{ backgroundImage: "url('/images/ken/putting-green-playground-backyard.webp')" }}
         />
         <div
           className="absolute inset-0"

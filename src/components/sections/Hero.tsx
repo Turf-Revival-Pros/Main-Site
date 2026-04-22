@@ -11,7 +11,7 @@ export default function Hero() {
       {/* Background Image — Real putting green photo */}
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/images/etr/IMG_0077.jpg')" }}
+        style={{ backgroundImage: "url('/images/ken/putting-green-with-sand-bunker.webp')" }}
       >
         <div className="absolute inset-0 bg-gradient-hero" />
       </div>

@@ -24,7 +24,7 @@ export const services: Service[] = [
       'Edge inspection and perimeter grooming',
     ],
     iconName: 'Target',
-    image: '/images/etr/IMG_0077.jpg',
+    image: '/images/ken/putting-green-plate-compactor.webp',
     metaTitle: 'Putting Green Refresh & Tuning | Turf Revival Pros | Denver',
     metaDescription:
       'Professional putting green maintenance and performance tuning in Denver. Restore ball roll, improve consistency, and extend the life of your backyard green. Call (719) 859-0314.',
@@ -169,7 +169,7 @@ export const services: Service[] = [
       'Before-and-after photo documentation',
     ],
     iconName: 'RefreshCw',
-    image: '/images/etr/IMG_0763.jpg',
+    image: '/images/services/debris-removal.jpg',
     metaTitle: 'Blooming & De-Compacting Artificial Turf | Turf Revival Pros | Denver',
     metaDescription:
       'Professional turf blooming and de-compacting in Denver. Revive matted and flat artificial turf with de-matting, cross-brushing, and infill replenishment. Free estimates.',
