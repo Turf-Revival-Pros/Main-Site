@@ -146,7 +146,7 @@ export const locations: Location[] = [
     description:
       'Aurora is one of Colorado\'s largest cities with diverse neighborhoods and a growing number of artificial turf installations in both residential and commercial settings.',
     serviceAreaDescription:
-      'We serve Aurora neighborhoods in the western and central portions of the city, closest to our Douglas County base.',
+      'As an Aurora-based company, we know the city well — from Southlands and Saddle Rock in southeast Aurora to the older neighborhoods near the original downtown. We serve every Aurora zip code.',
     neighborhoods: ['Southlands', 'Saddle Rock', 'Tallyn\'s Reach', 'Murphy Creek', 'Quincy Reservoir area'],
     metaTitle: 'Turf Cleaning in Aurora, CO | Turf Revival Pros',
     metaDescription:

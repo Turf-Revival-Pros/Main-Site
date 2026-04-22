@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     siteName: 'Turf Revival Pros',
     images: [
       {
-        url: '/images/trp-logo-wide.png',
+        url: '/images/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Turf Revival Pros — Artificial Turf Cleaning & Putting Green Refresh in Denver',
@@ -82,7 +82,8 @@ const localBusinessLd = {
   },
   openingHours: ['Mo-Fr 07:00-18:00', 'Sa 08:00-16:00'],
   priceRange: '$$',
-  image: 'https://turfrevivalpros.com/images/trp-logo.png',
+  image: 'https://turfrevivalpros.com/images/og-image.png',
+  logo: 'https://turfrevivalpros.com/images/trp-logo.png',
 };
 
 export default function RootLayout({

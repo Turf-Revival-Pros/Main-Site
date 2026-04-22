@@ -46,10 +46,10 @@ export default function Header() {
             <Image
               src="/images/trp-logo-wide.png"
               alt="Turf Revival Pros"
-              width={600}
-              height={338}
+              width={1000}
+              height={250}
               className={`w-auto transition-all duration-300 ${
-                isScrolled ? 'h-12' : 'h-14 lg:h-20'
+                isScrolled ? 'h-11' : 'h-12 lg:h-16'
               }`}
               priority
             />
@@ -141,9 +141,9 @@ export default function Header() {
             <Image
               src="/images/trp-logo-wide.png"
               alt="Turf Revival Pros"
-              width={600}
-              height={338}
-              className="h-12 w-auto"
+              width={1000}
+              height={250}
+              className="h-10 w-auto"
             />
             <button
               onClick={() => setIsOpen(false)}

@@ -37,11 +37,11 @@ export default function Footer() {
           <div>
             <Link href="/" className="inline-block mb-4">
               <Image
-                src="/images/trp-logo-wide.png"
+                src="/images/trp-logo-wide-dark.png"
                 alt="Turf Revival Pros"
-                width={600}
-                height={338}
-                className="h-24 w-auto brightness-0 invert"
+                width={1000}
+                height={250}
+                className="h-20 w-auto"
               />
             </Link>
             <p className="text-gray-400 text-sm leading-relaxed mb-4">
